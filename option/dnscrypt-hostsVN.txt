@@ -1810,6 +1810,7 @@
 *.engagelab.cc
 *.engageya.com
 *.ensighten.com
+*.enticecreep.com
 *.entravision.com
 *.eoapxl.com
 *.epom.com
@@ -5722,6 +5723,7 @@
 *.hfc195b.com
 *.hgads.com
 *.hh788.com
+*.hhbwhgtciqe.com
 *.hhbypdoecp.com
 *.hidden.gogoceleb.com
 *.highcpmcreativeformat.com
@@ -6050,6 +6052,7 @@
 *.kdm8.com
 *.ke.minterhazes.com
 *.ketchapp.org
+*.kettledroopingcontinuation.com
 *.kgdvs9ov3l2aasw4nuts.com
 *.kgfjrb711.com
 *.kighoadouk.net
@@ -6104,6 +6107,7 @@
 *.landsideresendtrousers.com
 *.langretsahibah.com
 *.largeer.com
+*.late-bloomingwalluphospital.com
 *.laughcloth.com
 *.launchbit.com
 *.laxativestuckunclog.com
@@ -6220,6 +6224,7 @@
 *.loudlunch.com
 *.lptag.liveperson.net
 *.lpuodgmca.com
+*.lu.hymenicshi.qpon
 *.lucidlykidney.com
 *.lucidmedia.com
 *.lucrinearraign.com
@@ -7385,6 +7390,7 @@
 *.rum.uptime.com
 *.rumadel.com
 *.runads.com
+*.rupmnmephml.com
 *.rusenov.com
 *.rutseasickmunch.com
 *.ruvsraaklrih.com
@@ -8458,6 +8464,7 @@
 *.wonderhsjnsd.com
 *.wondoads.de
 *.woovoree.net
+*.workdeadlinededicate.com
 *.workervanewalk.com
 *.worldoffersdaily.com
 *.worldwide-cash.net

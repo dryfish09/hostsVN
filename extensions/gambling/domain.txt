@@ -24132,6 +24132,7 @@
 789club.gp
 789club.ke
 789club.mu
+789club.mw
 789club.org
 789club.shop
 789club.sx
@@ -47436,6 +47437,7 @@ k88.casino
 k88.club
 k88.mobi
 k88.moe
+k88.mov
 k88.pro
 k88.tel
 k88.win
@@ -55495,6 +55497,7 @@ sk.xibet.fun
 sk.xibet.ing
 sk.xibet.now
 sk.xibet.nz
+sk.xibet.pl
 sk.xibet.vu
 sk.zbet.ws
 sk051.com
@@ -58149,6 +58152,7 @@ ujihoki.com
 uk099.shop
 uk88.club
 uk88.com
+uk88.dev
 uk88.gd
 uk88.how
 uk88.mba
@@ -59523,6 +59527,7 @@ vu88.in
 vu88.la
 vu88.live
 vu88.lv
+vu88.mobi
 vu88.moe
 vu88.mx
 vu88.net
@@ -63343,6 +63348,7 @@ xibet.ing
 xibet.moi
 xibet.now
 xibet.nz
+xibet.pl
 xibet.vg
 xibet.vu
 xibet.win
