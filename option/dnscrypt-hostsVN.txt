@@ -5824,6 +5824,7 @@
 *.iaudienc.com
 *.ib-ibi.com
 *.ibd-as-api.iq.com
+*.iccku.com
 *.ichachoakiglop.com
 *.iclickcdn.com
 *.iconcardinal.com
@@ -5910,6 +5911,7 @@
 *.insideoftech.com
 *.insightexpress.com
 *.inskinmedia.com
+*.insolubledoomedbenignity.com
 *.inspirationstarednope.com
 *.instantmadness.com
 *.instinctiveads.com
@@ -7686,6 +7688,7 @@
 *.stageseshoals.com
 *.stakingsmile.com
 *.star-advertising.com
+*.stareobjectedcipher.com
 *.starffa.com
 *.startapp.com
 *.stat.cliche.se
@@ -7834,6 +7837,7 @@
 *.t.firstpromoter.com
 *.t.freelancer.com
 *.t.insigit.com
+*.t.javhd-trk.com
 *.t.lumupu.xyz
 *.t.wayfair.com
 *.t7cp4fldl.com
@@ -8269,6 +8273,7 @@
 *.variousformatscontent.com
 *.vast.vstserv.com
 *.vaugroar.com
+*.vc.colpwoofell.qpon
 *.vcqclbetewdnq.website
 *.vd.bundthoecake.cyou
 *.vdkdxarnqiaedw.com
@@ -8511,6 +8516,7 @@
 *.xlviiirdr.com
 *.xlx1.com
 *.xm.geslingclime.shop
+*.xm.liquorssquab.com
 *.xmafrihkua.in
 *.xmirex.com
 *.xnhhzlkr.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 27 Jul 2026 13:57 UTC+7
-! Version: 2607271357
-! Blocked: 64.698 rules
+! Last modified: 28 Jul 2026 14:31 UTC+7
+! Version: 2607281431
+! Blocked: 64.713 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2590,6 +2590,7 @@
 ||11win.mobi^
 ||11win.mx^
 ||11win.net^
+||11win.vin^
 ||11win33.com^
 ||11xmirror.com^
 ||11xxpp.cn^
@@ -31137,6 +31138,7 @@
 ||9b211.com^
 ||9b992.com^
 ||9banca.com^
+||9bet.army^
 ||9bet.mobi^
 ||9bet.net^
 ||9bet.rest^
@@ -32074,6 +32076,7 @@
 ||api.9173555.com^
 ||api.996221.com^
 ||api.99vn.bet^
+||api.9bet.army^
 ||api.9bet.mobi^
 ||api.9bet.win^
 ||api.ae888.com^
@@ -32119,6 +32122,7 @@
 ||api.hi678f0.com^
 ||api.k89.in^
 ||api.k89code.net^
+||api.ku88.okinawa^
 ||api.ky5528.vip^
 ||api.lobe168.com^
 ||api.lv6790.com^
@@ -33197,6 +33201,7 @@
 ||banh8899.net^
 ||banhbeo68.com^
 ||banhcho.com^
+||banhngonmiennam.vip^
 ||banma365.com^
 ||banner.1xcakeo.bet^
 ||baobao122.com^
@@ -41464,6 +41469,7 @@
 ||gviralnews.com^
 ||gvn3.com^
 ||gw.gen88.com^
+||gw.mubet.talk^
 ||gw.mubet.vip^
 ||gw.tot88.store^
 ||gw.zqvnn.com^
@@ -48525,6 +48531,7 @@
 ||ku78.com^
 ||ku7968.com^
 ||ku88.fun^
+||ku88.okinawa^
 ||ku88.pro^
 ||ku88.win^
 ||ku9889.com^
@@ -51269,6 +51276,7 @@
 ||mubet.best^
 ||mubet.dev^
 ||mubet.sh^
+||mubet.talk^
 ||mubet.vip^
 ||mugvf5q82qv.com^
 ||mulive.net^
@@ -53437,6 +53445,7 @@
 ||ptuo470ii.com^
 ||pub88.com^
 ||pub88.day^
+||pub88.ltd^
 ||pub88.win^
 ||pubease.xyz^
 ||pubecho.xyz^
@@ -54746,6 +54755,7 @@
 ||salonli.xyz^
 ||sam.k52goodgame.xyz^
 ||sam86vip.pro^
+||samdodulich.vip^
 ||sampuxchina.com^
 ||samvip.bet^
 ||sanhbai.com^
@@ -55675,12 +55685,14 @@
 ||sock.sky88.club^
 ||sock.sky88.com^
 ||sock.sky88.in^
+||socket.9bet.army^
 ||socket.9bet.mobi^
 ||socket.9bet.win^
 ||socket.debet.so^
 ||socket.debet.uk^
 ||socket.debet.win^
 ||socket.hdbet.com^
+||socket.ku88.okinawa^
 ||socket.rainbet.com^
 ||socket.topbet.top^
 ||socket.usbet.cc^
@@ -58927,6 +58939,7 @@
 ||viacute.xyz^
 ||viaegg.xyz^
 ||vibet.com^
+||vic.boutique^
 ||vic.doctor^
 ||vic.hair^
 ||vic.win^
@@ -61682,11 +61695,13 @@
 ||wowslot66.live^
 ||wowwin7.com^
 ||wp.8live.biz^
+||wp.9bet.army^
 ||wp.9bet.mobi^
 ||wp.9bet.win^
 ||wp.appwin79.biz^
 ||wp.debet79.info^
 ||wp.hdbet.com^
+||wp.ku88.okinawa^
 ||wp.mibet.net^
 ||wp.nbet.fan^
 ||wp.nbet.to^

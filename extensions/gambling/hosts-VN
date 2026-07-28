@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 27 Jul 2026 13:57 UTC+7
-# Version: 2607271357
-# Blocked: 3.753 domains
+# Last modified: 28 Jul 2026 14:31 UTC+7
+# Version: 2607281431
+# Blocked: 3.766 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -44,6 +44,7 @@
 0.0.0.0 11win.mobi
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
+0.0.0.0 11win.vin
 0.0.0.0 11zalo.com
 0.0.0.0 123b.bet
 0.0.0.0 123b.com
@@ -307,6 +308,7 @@
 0.0.0.0 99vina.club
 0.0.0.0 99vn.bet
 0.0.0.0 9b992.com
+0.0.0.0 9bet.army
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
 0.0.0.0 9bet.rest
@@ -404,6 +406,7 @@
 0.0.0.0 api.33beta.com
 0.0.0.0 api.88bet88bet.com
 0.0.0.0 api.99vn.bet
+0.0.0.0 api.9bet.army
 0.0.0.0 api.9bet.mobi
 0.0.0.0 api.9bet.win
 0.0.0.0 api.ae888.com
@@ -416,6 +419,7 @@
 0.0.0.0 api.haybet.ws
 0.0.0.0 api.hb8887.com
 0.0.0.0 api.hdbet.com
+0.0.0.0 api.ku88.okinawa
 0.0.0.0 api.max79.win
 0.0.0.0 api.min88.com
 0.0.0.0 api.minivn.com
@@ -1163,6 +1167,7 @@
 0.0.0.0 god55viet.com
 0.0.0.0 gogobolaku.com
 0.0.0.0 gw.gen88.com
+0.0.0.0 gw.mubet.talk
 0.0.0.0 gw.mubet.vip
 0.0.0.0 gw.tot88.store
 0.0.0.0 h3bet.com
@@ -1610,6 +1615,7 @@
 0.0.0.0 ku6131.net
 0.0.0.0 ku777bet.com
 0.0.0.0 ku88.fun
+0.0.0.0 ku88.okinawa
 0.0.0.0 ku88.pro
 0.0.0.0 ku88.win
 0.0.0.0 ku998.net
@@ -1968,6 +1974,7 @@
 0.0.0.0 mubet.best
 0.0.0.0 mubet.dev
 0.0.0.0 mubet.sh
+0.0.0.0 mubet.talk
 0.0.0.0 mubet.vip
 0.0.0.0 mv66.app
 0.0.0.0 mv66.baby
@@ -2194,6 +2201,7 @@
 0.0.0.0 pt1.fabet.win
 0.0.0.0 pub88.com
 0.0.0.0 pub88.day
+0.0.0.0 pub88.ltd
 0.0.0.0 pub88.win
 0.0.0.0 pum88.com
 0.0.0.0 qc.789.mobi
@@ -2455,12 +2463,14 @@
 0.0.0.0 sock.sky88.club
 0.0.0.0 sock.sky88.com
 0.0.0.0 sock.sky88.in
+0.0.0.0 socket.9bet.army
 0.0.0.0 socket.9bet.mobi
 0.0.0.0 socket.9bet.win
 0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
 0.0.0.0 socket.debet.win
 0.0.0.0 socket.hdbet.com
+0.0.0.0 socket.ku88.okinawa
 0.0.0.0 socket.topbet.top
 0.0.0.0 socket.usbet.cc
 0.0.0.0 socket.usbet.net
@@ -2878,6 +2888,7 @@
 0.0.0.0 vi.oppa888.com
 0.0.0.0 vi68.org
 0.0.0.0 vibet.com
+0.0.0.0 vic.boutique
 0.0.0.0 vic.doctor
 0.0.0.0 vic.hair
 0.0.0.0 vic.win
@@ -3167,10 +3178,12 @@
 0.0.0.0 winvn18.com
 0.0.0.0 won88.com
 0.0.0.0 won88.win
+0.0.0.0 wp.9bet.army
 0.0.0.0 wp.9bet.mobi
 0.0.0.0 wp.9bet.win
 0.0.0.0 wp.debet79.info
 0.0.0.0 wp.hdbet.com
+0.0.0.0 wp.ku88.okinawa
 0.0.0.0 wp.mibet.net
 0.0.0.0 wp.nbet.fan
 0.0.0.0 wp.nbet.to

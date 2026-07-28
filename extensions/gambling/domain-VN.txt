@@ -33,6 +33,7 @@
 11win.mobi
 11win.mx
 11win.net
+11win.vin
 11zalo.com
 123b.bet
 123b.com
@@ -296,6 +297,7 @@
 99vina.club
 99vn.bet
 9b992.com
+9bet.army
 9bet.mobi
 9bet.net
 9bet.rest
@@ -393,6 +395,7 @@ api.123bhh.com
 api.33beta.com
 api.88bet88bet.com
 api.99vn.bet
+api.9bet.army
 api.9bet.mobi
 api.9bet.win
 api.ae888.com
@@ -405,6 +408,7 @@ api.f8bet5.com
 api.haybet.ws
 api.hb8887.com
 api.hdbet.com
+api.ku88.okinawa
 api.max79.win
 api.min88.com
 api.minivn.com
@@ -1152,6 +1156,7 @@ god55.zone
 god55viet.com
 gogobolaku.com
 gw.gen88.com
+gw.mubet.talk
 gw.mubet.vip
 gw.tot88.store
 h3bet.com
@@ -1599,6 +1604,7 @@ ku6110.net
 ku6131.net
 ku777bet.com
 ku88.fun
+ku88.okinawa
 ku88.pro
 ku88.win
 ku998.net
@@ -1957,6 +1963,7 @@ mu922.com
 mubet.best
 mubet.dev
 mubet.sh
+mubet.talk
 mubet.vip
 mv66.app
 mv66.baby
@@ -2183,6 +2190,7 @@ prok8.com
 pt1.fabet.win
 pub88.com
 pub88.day
+pub88.ltd
 pub88.win
 pum88.com
 qc.789.mobi
@@ -2444,12 +2452,14 @@ sock.red88.vip
 sock.sky88.club
 sock.sky88.com
 sock.sky88.in
+socket.9bet.army
 socket.9bet.mobi
 socket.9bet.win
 socket.debet.so
 socket.debet.uk
 socket.debet.win
 socket.hdbet.com
+socket.ku88.okinawa
 socket.topbet.top
 socket.usbet.cc
 socket.usbet.net
@@ -2867,6 +2877,7 @@ vh79.com
 vi.oppa888.com
 vi68.org
 vibet.com
+vic.boutique
 vic.doctor
 vic.hair
 vic.win
@@ -3156,10 +3167,12 @@ winvn17.com
 winvn18.com
 won88.com
 won88.win
+wp.9bet.army
 wp.9bet.mobi
 wp.9bet.win
 wp.debet79.info
 wp.hdbet.com
+wp.ku88.okinawa
 wp.mibet.net
 wp.nbet.fan
 wp.nbet.to
