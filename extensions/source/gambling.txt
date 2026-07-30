@@ -61874,6 +61874,8 @@ smartphone.vip
 vemaybaynoidia.vip
 samdodulich.vip
 banhngonmiennam.vip
+quanaothanhly.vip
+maytinhgiare.vip
 # --- Block tracking gambling ---
 mostauthor.com
 rstat.rockmostbet.com
@@ -61932,6 +61934,7 @@ cmsapi.jbo88.biz
 logging-gateway.gamealiyun.com
 static-fe-tool.com
 js.static-fe-tool.com
+promotion.static-fe-tool.com
 api.c3-tool.com
 static-fe.c3-tool.com
 tracking.c3-tool.com

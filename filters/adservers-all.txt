@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 28 Jul 2026 14:31 UTC+7
-! Version: 2607281431
-! Blocked: 8.641 rules
+! Last modified: 30 Jul 2026 14:09 UTC+7
+! Version: 2607301409
+! Blocked: 8.645 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7691,6 +7691,7 @@
 ||srvd2204.com^
 ||srwww1.com^
 ||ssm.codes^
+||st.afoundeprouder.com^
 ||st.top100.ru^
 ||stagepopkek.com^
 ||stageseshoals.com^
@@ -8443,10 +8444,12 @@
 ||whispa.com^
 ||whisperingcrib.com^
 ||whisperofisaak.com^
+||whitetrafsa.com^
 ||whoeverpensivepaternity.com^
 ||whoisonline.net^
 ||whoursie.com^
 ||whuwoawain.com^
+||wi.spleniidizzy.com^
 ||widdit.com^
 ||widget.manychat.com^
 ||widget.privy.com^
@@ -8556,6 +8559,7 @@
 ||yb26b.com^
 ||ybrantdigital.com^
 ||ybs2ffs7v.com^
+||yd.yowleytapeta.shop^
 ||ydworld.com^
 ||yesads.com^
 ||yesadvertising.com^

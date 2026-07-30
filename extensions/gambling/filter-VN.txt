@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 28 Jul 2026 14:31 UTC+7
-! Version: 2607281431
-! Blocked: 3.332 rules
+! Last modified: 30 Jul 2026 14:09 UTC+7
+! Version: 2607301409
+! Blocked: 3.360 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -42,6 +42,7 @@
 ||11win.mx^
 ||11win.net^
 ||11win.vin^
+||11win.works^
 ||11zalo.com^
 ||123b.bet^
 ||123b.com^
@@ -190,6 +191,7 @@
 ||789club.biz^
 ||789club.com^
 ||789club.cr^
+||789club.fun^
 ||789club.gp^
 ||789club.ke^
 ||789club.mu^
@@ -311,6 +313,8 @@
 ||99vn.bet^
 ||9b992.com^
 ||9bet.army^
+||9bet.band^
+||9bet.blue^
 ||9bet.mobi^
 ||9bet.net^
 ||9bet.rest^
@@ -411,6 +415,7 @@
 ||api.88bet88bet.com^
 ||api.99vn.bet^
 ||api.9bet.army^
+||api.9bet.band^
 ||api.9bet.mobi^
 ||api.9bet.win^
 ||api.ae888.com^
@@ -443,6 +448,7 @@
 ||api.shbetvv.com^
 ||api.sky88.club^
 ||api.sky88.com^
+||api.sky88.moda^
 ||api.st666.win^
 ||api.topbet.net^
 ||api.topbet.top^
@@ -863,6 +869,7 @@
 ||du88.care^
 ||du88.club^
 ||du88.com^
+||du88.fashion^
 ||du88.guru^
 ||du88.in^
 ||du88.info^
@@ -1111,6 +1118,7 @@
 ||gemwin.ink^
 ||gemwin.is^
 ||gemwin.lc^
+||gemwin.limo^
 ||gemwin.lv^
 ||gemwin.mobi^
 ||gemwin.my^
@@ -1209,6 +1217,7 @@
 ||hbet.nl^
 ||hbet.ph^
 ||hbet.pw^
+||hbet.sh^
 ||hbet.so^
 ||hbet.vc^
 ||hbet.win^
@@ -1466,6 +1475,7 @@
 ||k801k.com^
 ||k81206.com^
 ||k88.art^
+||k88.bz^
 ||k88.cam^
 ||k88.club^
 ||k88.mobi^
@@ -1724,6 +1734,7 @@
 ||lu88.gdn^
 ||lu88.kim^
 ||lu88.lc^
+||lu88.lv^
 ||lu88.mn^
 ||lu88.nz^
 ||lu88.pro^
@@ -1871,6 +1882,7 @@
 ||man88.li^
 ||man88.net^
 ||man88.ng^
+||man88.ph^
 ||man88.pl^
 ||man88.pw^
 ||man88.sh^
@@ -2208,6 +2220,7 @@
 ||pub88.com^
 ||pub88.day^
 ||pub88.ltd^
+||pub88.pw^
 ||pub88.win^
 ||pum88.com^
 ||qc.789.mobi^
@@ -2443,6 +2456,7 @@
 ||sk.xibet.now^
 ||sk.xibet.nz^
 ||sk.xibet.pl^
+||sk.xibet.soy^
 ||sk.xibet.vu^
 ||sk.zbet.ws^
 ||sky88.bet^
@@ -2450,9 +2464,11 @@
 ||sky88.com^
 ||sky88.in^
 ||sky88.info^
+||sky88.moda^
 ||sky88.net^
 ||sky88.top^
 ||sky88.win^
+||sky88chinhhang.com^
 ||skyclub.bid^
 ||sm611.com^
 ||smart.8live.com^
@@ -2476,6 +2492,7 @@
 ||sock.sky88.com^
 ||sock.sky88.in^
 ||socket.9bet.army^
+||socket.9bet.band^
 ||socket.9bet.mobi^
 ||socket.9bet.win^
 ||socket.debet.so^
@@ -2794,6 +2811,7 @@
 ||tx88.com^
 ||tx88.download^
 ||tx88.fan^
+||tx88.fashion^
 ||tx88.fun^
 ||tx88.fyi^
 ||tx88.hot^
@@ -2819,6 +2837,7 @@
 ||udw884.com^
 ||udw886.com^
 ||uer5.com^
+||uk88.cab^
 ||uk88.club^
 ||uk88.com^
 ||uk88.dev^
@@ -2828,6 +2847,7 @@
 ||uk88.top^
 ||uk88.vip^
 ||uk88.xin^
+||uk88chinhhang.com^
 ||upanh.vn88.com^
 ||usbet.cc^
 ||usbet.net^
@@ -2904,6 +2924,7 @@
 ||vic.boutique^
 ||vic.doctor^
 ||vic.hair^
+||vic.ventures^
 ||vic.win^
 ||vic88.com^
 ||vic88.link^
@@ -3034,6 +3055,7 @@
 ||vu88.mx^
 ||vu88.net^
 ||vu88.ng^
+||vu88.ro^
 ||vu88.sh^
 ||vu88.tv^
 ||vu88.ws^
@@ -3141,6 +3163,7 @@
 ||web.nhatvip.net^
 ||web.sunwin.pro^
 ||web.topzo.com^
+||web.win79.eco^
 ||web.win79.moi^
 ||web.win79.vg^
 ||web.yo88.is^
@@ -3164,6 +3187,7 @@
 ||win79.app^
 ||win79.com^
 ||win79.download^
+||win79.eco^
 ||win79.fun^
 ||win79.im^
 ||win79.live^
@@ -3174,6 +3198,7 @@
 ||win79.vg^
 ||win79.vip^
 ||win79a.com^
+||win79chinhhang.com^
 ||win79d.com^
 ||win79play.me^
 ||win888b.com^
@@ -3195,6 +3220,7 @@
 ||won88.com^
 ||won88.win^
 ||wp.9bet.army^
+||wp.9bet.band^
 ||wp.9bet.mobi^
 ||wp.9bet.win^
 ||wp.debet79.info^
@@ -3211,6 +3237,7 @@
 ||wp.rikvip.tv^
 ||wp.sky88.club^
 ||wp.sky88.com^
+||wp.sky88.moda^
 ||wp.topbet.net^
 ||wp.topbet.top^
 ||ww88.club^
@@ -3237,6 +3264,7 @@
 ||xibet.now^
 ||xibet.nz^
 ||xibet.pl^
+||xibet.soy^
 ||xibet.vg^
 ||xibet.vu^
 ||xibet.win^
