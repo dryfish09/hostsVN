@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 30 Jul 2026 14:09 UTC+7
-! Version: 2607301409
-! Blocked: 64.744 rules
+! Last modified: 03 Aug 2026 14:52 UTC+7
+! Version: 2608031452
+! Blocked: 64.780 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2586,6 +2586,7 @@
 ||11vn.bet^
 ||11vn77.com^
 ||11vn777.com^
+||11win.link^
 ||11win.llc^
 ||11win.mobi^
 ||11win.mx^
@@ -14236,8 +14237,10 @@
 ||3bet.llc^
 ||3bet.moe^
 ||3bet.ph^
+||3bet.rent^
 ||3bet.sh^
 ||3bet.ski^
+||3bet.skin^
 ||3bet.so^
 ||3bet.store^
 ||3bet.tech^
@@ -24150,6 +24153,7 @@
 ||789club.fun^
 ||789club.gp^
 ||789club.ke^
+||789club.kn^
 ||789club.mu^
 ||789club.mw^
 ||789club.org^
@@ -31143,6 +31147,7 @@
 ||9bet.army^
 ||9bet.band^
 ||9bet.blue^
+||9bet.green^
 ||9bet.mobi^
 ||9bet.net^
 ||9bet.rest^
@@ -32082,6 +32087,7 @@
 ||api.99vn.bet^
 ||api.9bet.army^
 ||api.9bet.band^
+||api.9bet.green^
 ||api.9bet.mobi^
 ||api.9bet.win^
 ||api.ae888.com^
@@ -32862,6 +32868,7 @@
 ||balauo.com^
 ||balirenyulecheng.net^
 ||ball88.app^
+||ball88.blue^
 ||ball88.casa^
 ||ball88.com^
 ||ball88.cool^
@@ -32875,6 +32882,7 @@
 ||ball88.ltd^
 ||ball88.men^
 ||ball88.mobi^
+||ball88.poker^
 ||ball88.red^
 ||ball88.team^
 ||ball88.to^
@@ -34841,6 +34849,7 @@
 ||bom52.club^
 ||bom88.baby^
 ||bom88.casa^
+||bom88.city^
 ||bom88.click^
 ||bom88.com^
 ||bom88.cool^
@@ -34852,6 +34861,7 @@
 ||bom88.plus^
 ||bom88.shop^
 ||bom88.team^
+||bom88.tips^
 ||bomei66.com^
 ||bomtanhoitu.live^
 ||bomvip.club^
@@ -38446,6 +38456,7 @@
 ||du88.pro^
 ||du88.sh^
 ||du88.tips^
+||du88.wales^
 ||dubai-speed.com^
 ||dubai147.com^
 ||dubai232.com^
@@ -41043,6 +41054,7 @@
 ||gemwin.nz^
 ||gemwin.onl^
 ||gemwin.page^
+||gemwin.rent^
 ||gemwin.spot^
 ||gemwin.tax^
 ||gemwin.to^
@@ -41477,6 +41489,7 @@
 ||gviralnews.com^
 ||gvn3.com^
 ||gw.gen88.com^
+||gw.mubet.media^
 ||gw.mubet.talk^
 ||gw.mubet.vip^
 ||gw.tot88.store^
@@ -42000,6 +42013,7 @@
 ||hbc789.top^
 ||hbc789.work^
 ||hbet.ac^
+||hbet.bio^
 ||hbet.club^
 ||hbet.cz^
 ||hbet.fm^
@@ -47479,6 +47493,7 @@
 ||k88.cam^
 ||k88.casino^
 ||k88.club^
+||k88.mba^
 ||k88.mobi^
 ||k88.moe^
 ||k88.mov^
@@ -49124,6 +49139,7 @@
 ||livejili.lol^
 ||livek8.com^
 ||livesoccerkr.com^
+||livestr.quayso.org^
 ||livew88fun.com^
 ||livewc2022.com^
 ||livv168.com^
@@ -49390,6 +49406,7 @@
 ||lu88.com^
 ||lu88.de^
 ||lu88.ec^
+||lu88.gd^
 ||lu88.gdn^
 ||lu88.kim^
 ||lu88.lc^
@@ -50434,6 +50451,7 @@
 ||man79.org^
 ||man88.biz^
 ||man88.bz^
+||man88.ch^
 ||man88.cl^
 ||man88.co^
 ||man88.la^
@@ -51288,9 +51306,12 @@
 ||mu922.com^
 ||mubet.best^
 ||mubet.dev^
+||mubet.media^
 ||mubet.sh^
 ||mubet.talk^
+||mubet.video^
 ||mubet.vip^
+||mubet.website^
 ||mugvf5q82qv.com^
 ||mulive.net^
 ||multicurbrand01.com^
@@ -53251,6 +53272,7 @@
 ||play.topclub.casa^
 ||play.vaob52.click^
 ||play.vic.hair^
+||play.vicclub.ac^
 ||play.vip79.top^
 ||play.vua72.club^
 ||play.win79.vip^
@@ -53459,6 +53481,7 @@
 ||ptuo470ii.com^
 ||pub88.com^
 ||pub88.day^
+||pub88.forum^
 ||pub88.ltd^
 ||pub88.pw^
 ||pub88.win^
@@ -55519,6 +55542,7 @@
 ||sjadonh.com^
 ||sjzwtztjx.com^
 ||sk.ball88.app^
+||sk.ball88.blue^
 ||sk.ball88.casa^
 ||sk.ball88.com^
 ||sk.ball88.day^
@@ -55562,6 +55586,7 @@
 ||sk.xibet.now^
 ||sk.xibet.nz^
 ||sk.xibet.pl^
+||sk.xibet.red^
 ||sk.xibet.soy^
 ||sk.xibet.vu^
 ||sk.zbet.ws^
@@ -55706,6 +55731,7 @@
 ||sock.sky88.in^
 ||socket.9bet.army^
 ||socket.9bet.band^
+||socket.9bet.green^
 ||socket.9bet.mobi^
 ||socket.9bet.win^
 ||socket.debet.so^
@@ -57330,6 +57356,9 @@
 ||tot111.com^
 ||tot222.com^
 ||tot88.com^
+||tot88.farm^
+||tot88.ink^
+||tot88.loan^
 ||tot88.store^
 ||totaltiltsports.com^
 ||tote.co.uk^
@@ -57605,12 +57634,14 @@
 ||tx88.hot^
 ||tx88.in^
 ||tx88.ing^
+||tx88.krd^
 ||tx88.la^
 ||tx88.llc^
 ||tx88.navy^
 ||tx88.now^
 ||tx88.onl^
 ||tx88.photo^
+||tx88.pink^
 ||tx88.top^
 ||tx88.vet^
 ||tx88.vip^
@@ -58973,6 +59004,7 @@
 ||vic88.mx^
 ||vic88.net^
 ||vicbet.com^
+||vicclub.ac^
 ||victorwin555.com^
 ||vicwin.vip^
 ||vidor168.com^
@@ -59601,6 +59633,7 @@
 ||vu88.com^
 ||vu88.cz^
 ||vu88.de^
+||vu88.fm^
 ||vu88.in^
 ||vu88.la^
 ||vu88.live^
@@ -61725,6 +61758,7 @@
 ||wp.8live.biz^
 ||wp.9bet.army^
 ||wp.9bet.band^
+||wp.9bet.green^
 ||wp.9bet.mobi^
 ||wp.9bet.win^
 ||wp.appwin79.biz^
@@ -62335,6 +62369,7 @@
 ||xibet.now^
 ||xibet.nz^
 ||xibet.pl^
+||xibet.red^
 ||xibet.soy^
 ||xibet.vg^
 ||xibet.vu^
@@ -64629,6 +64664,7 @@
 ||zowin.red^
 ||zowin.sh^
 ||zowin.srl^
+||zowin.st^
 ||zowin.sx^
 ||zowin.tv^
 ||zowin.tw^
