@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 03 Aug 2026 14:52 UTC+7
-! Version: 2608031452
-! Blocked: 64.780 rules
+! Last modified: 05 Aug 2026 13:48 UTC+7
+! Version: 2608051348
+! Blocked: 64.782 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -38450,6 +38450,7 @@
 ||du88.com^
 ||du88.fashion^
 ||du88.guru^
+||du88.health^
 ||du88.in^
 ||du88.info^
 ||du88.life^
@@ -41055,6 +41056,7 @@
 ||gemwin.onl^
 ||gemwin.page^
 ||gemwin.rent^
+||gemwin.sale^
 ||gemwin.spot^
 ||gemwin.tax^
 ||gemwin.to^

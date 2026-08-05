@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 03 Aug 2026 14:52 UTC+7
-! Version: 2608031452
-! Blocked: 22.496 rules
+! Last modified: 05 Aug 2026 13:48 UTC+7
+! Version: 2608051348
+! Blocked: 22.497 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -10168,6 +10168,7 @@
 ||javhdpro.pro^
 ||javhdvietsub.com^
 ||javhdxxx.asia^
+||javhdz.fun^
 ||javhdz.hot^
 ||javhdz.pro^
 ||javhdz.red^

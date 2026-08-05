@@ -5423,6 +5423,7 @@
 *.eyeviewads.com
 *.eyewonder.com
 *.ezcgojaamg.com
+*.ezdkixzdkr.com
 *.ezojs.com
 *.eztexting.com
 *.ezula.com
@@ -7550,6 +7551,7 @@
 *.shopzilla.com
 *.shpee.eco
 *.si.hikerfaquirs.com
+*.si.humatesmyiosis.com
 *.sibautomation.com
 *.siccash.com
 *.sicksmash.com
@@ -8391,6 +8393,7 @@
 *.wd.macherabemaim.shop
 *.wda.com
 *.wdads.sx.atl.publicus.com
+*.wdlyhnddxm.com
 *.wdqhdqtlxu.com
 *.wearadmiration.com
 *.wearemiq.com

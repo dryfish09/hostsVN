@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 03 Aug 2026 14:52 UTC+7
-# Version: 2608031452
-# Blocked: 65.847 domains
+# Last modified: 05 Aug 2026 13:48 UTC+7
+# Version: 2608051348
+# Blocked: 65.849 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -38437,6 +38437,7 @@
 0.0.0.0 du88.com
 0.0.0.0 du88.fashion
 0.0.0.0 du88.guru
+0.0.0.0 du88.health
 0.0.0.0 du88.in
 0.0.0.0 du88.info
 0.0.0.0 du88.life
@@ -41041,6 +41042,7 @@
 0.0.0.0 gemwin.onl
 0.0.0.0 gemwin.page
 0.0.0.0 gemwin.rent
+0.0.0.0 gemwin.sale
 0.0.0.0 gemwin.spot
 0.0.0.0 gemwin.tax
 0.0.0.0 gemwin.to

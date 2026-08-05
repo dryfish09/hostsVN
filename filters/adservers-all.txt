@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 03 Aug 2026 14:52 UTC+7
-! Version: 2608031452
-! Blocked: 8.652 rules
+! Last modified: 05 Aug 2026 13:49 UTC+7
+! Version: 2608051349
+! Blocked: 8.655 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5431,6 +5431,7 @@
 ||eyeviewads.com^
 ||eyewonder.com^
 ||ezcgojaamg.com^
+||ezdkixzdkr.com^
 ||ezojs.com^
 ||eztexting.com^
 ||ezula.com^
@@ -7558,6 +7559,7 @@
 ||shopzilla.com^
 ||shpee.eco^
 ||si.hikerfaquirs.com^
+||si.humatesmyiosis.com^
 ||sibautomation.com^
 ||siccash.com^
 ||sicksmash.com^
@@ -8399,6 +8401,7 @@
 ||wd.macherabemaim.shop^
 ||wda.com^
 ||wdads.sx.atl.publicus.com^
+||wdlyhnddxm.com^
 ||wdqhdqtlxu.com^
 ||wearadmiration.com^
 ||wearemiq.com^

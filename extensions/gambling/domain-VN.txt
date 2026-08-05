@@ -866,6 +866,7 @@ du88.club
 du88.com
 du88.fashion
 du88.guru
+du88.health
 du88.in
 du88.info
 du88.life
@@ -1121,6 +1122,7 @@ gemwin.my
 gemwin.nz
 gemwin.page
 gemwin.rent
+gemwin.sale
 gemwin.spot
 gemwin.tax
 gemwin.to
