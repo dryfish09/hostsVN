@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling VN
-# Last modified: 05 Aug 2026 13:48 UTC+7
-# Version: 2608051348
-# Blocked: 3.831 domains
+# Last modified: 06 Aug 2026 15:33 UTC+7
+# Version: 2608061533
+# Blocked: 3.846 domains
 # Only include gambling domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -40,6 +40,7 @@
 0.0.0.0 11bet.vin
 0.0.0.0 11bet.win
 0.0.0.0 11betvnd.com
+0.0.0.0 11win.beer
 0.0.0.0 11win.link
 0.0.0.0 11win.llc
 0.0.0.0 11win.mobi
@@ -117,6 +118,7 @@
 0.0.0.0 388bet.us
 0.0.0.0 388bet.vin
 0.0.0.0 388bet.vip
+0.0.0.0 3bet.baby
 0.0.0.0 3bet.bike
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.center
@@ -199,6 +201,7 @@
 0.0.0.0 789club.kn
 0.0.0.0 789club.mu
 0.0.0.0 789club.mw
+0.0.0.0 789club.nu
 0.0.0.0 789club.org
 0.0.0.0 789club.sx
 0.0.0.0 789club.vg
@@ -317,6 +320,7 @@
 0.0.0.0 9bet.army
 0.0.0.0 9bet.band
 0.0.0.0 9bet.blue
+0.0.0.0 9bet.care
 0.0.0.0 9bet.green
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
@@ -417,6 +421,7 @@
 0.0.0.0 api.99vn.bet
 0.0.0.0 api.9bet.army
 0.0.0.0 api.9bet.band
+0.0.0.0 api.9bet.care
 0.0.0.0 api.9bet.green
 0.0.0.0 api.9bet.mobi
 0.0.0.0 api.9bet.win
@@ -882,6 +887,7 @@
 0.0.0.0 du88.info
 0.0.0.0 du88.life
 0.0.0.0 du88.pro
+0.0.0.0 du88.rent
 0.0.0.0 du88.sh
 0.0.0.0 du88.tips
 0.0.0.0 du88.wales
@@ -1231,6 +1237,7 @@
 0.0.0.0 hbet.pw
 0.0.0.0 hbet.sh
 0.0.0.0 hbet.so
+0.0.0.0 hbet.spa
 0.0.0.0 hbet.vc
 0.0.0.0 hbet.win
 0.0.0.0 hcm66.com
@@ -1489,6 +1496,7 @@
 0.0.0.0 k88.bz
 0.0.0.0 k88.cam
 0.0.0.0 k88.club
+0.0.0.0 k88.day
 0.0.0.0 k88.mba
 0.0.0.0 k88.mobi
 0.0.0.0 k88.moe
@@ -1753,6 +1761,7 @@
 0.0.0.0 lu88.pro
 0.0.0.0 lu88.pw
 0.0.0.0 lu88.tw
+0.0.0.0 lu88.vg
 0.0.0.0 luck6.com
 0.0.0.0 luck8.com
 0.0.0.0 luck8881.com
@@ -1892,6 +1901,7 @@
 0.0.0.0 man88.ch
 0.0.0.0 man88.cl
 0.0.0.0 man88.co
+0.0.0.0 man88.io
 0.0.0.0 man88.la
 0.0.0.0 man88.li
 0.0.0.0 man88.net
@@ -2507,6 +2517,7 @@
 0.0.0.0 sock.sky88.in
 0.0.0.0 socket.9bet.army
 0.0.0.0 socket.9bet.band
+0.0.0.0 socket.9bet.care
 0.0.0.0 socket.9bet.green
 0.0.0.0 socket.9bet.mobi
 0.0.0.0 socket.9bet.win
@@ -2837,6 +2848,7 @@
 0.0.0.0 tx88.ing
 0.0.0.0 tx88.krd
 0.0.0.0 tx88.la
+0.0.0.0 tx88.land
 0.0.0.0 tx88.llc
 0.0.0.0 tx88.navy
 0.0.0.0 tx88.now
@@ -3077,6 +3089,7 @@
 0.0.0.0 vu88.ro
 0.0.0.0 vu88.sh
 0.0.0.0 vu88.tv
+0.0.0.0 vu88.vu
 0.0.0.0 vu88.ws
 0.0.0.0 vua88.app
 0.0.0.0 vua88.biz
@@ -3239,6 +3252,7 @@
 0.0.0.0 won88.win
 0.0.0.0 wp.9bet.army
 0.0.0.0 wp.9bet.band
+0.0.0.0 wp.9bet.care
 0.0.0.0 wp.9bet.green
 0.0.0.0 wp.9bet.mobi
 0.0.0.0 wp.9bet.win
@@ -3738,6 +3752,7 @@
 0.0.0.0 xibet.pl
 0.0.0.0 xibet.red
 0.0.0.0 xibet.soy
+0.0.0.0 xibet.uno
 0.0.0.0 xibet.vg
 0.0.0.0 xibet.vu
 0.0.0.0 xibet.win

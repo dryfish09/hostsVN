@@ -1,7 +1,7 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains
-! Last modified: 05 Aug 2026 13:48 UTC+7
-! Version: 2608051348
+! Last modified: 06 Aug 2026 15:33 UTC+7
+! Version: 2608061533
 ! Blocked: 4.891 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/

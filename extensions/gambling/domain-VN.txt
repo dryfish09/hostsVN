@@ -29,6 +29,7 @@
 11bet.vin
 11bet.win
 11betvnd.com
+11win.beer
 11win.link
 11win.llc
 11win.mobi
@@ -106,6 +107,7 @@
 388bet.us
 388bet.vin
 388bet.vip
+3bet.baby
 3bet.bike
 3bet.biz
 3bet.center
@@ -188,6 +190,7 @@
 789club.kn
 789club.mu
 789club.mw
+789club.nu
 789club.org
 789club.sx
 789club.vg
@@ -306,6 +309,7 @@
 9bet.army
 9bet.band
 9bet.blue
+9bet.care
 9bet.green
 9bet.mobi
 9bet.net
@@ -406,6 +410,7 @@ api.88bet88bet.com
 api.99vn.bet
 api.9bet.army
 api.9bet.band
+api.9bet.care
 api.9bet.green
 api.9bet.mobi
 api.9bet.win
@@ -871,6 +876,7 @@ du88.in
 du88.info
 du88.life
 du88.pro
+du88.rent
 du88.sh
 du88.tips
 du88.wales
@@ -1220,6 +1226,7 @@ hbet.ph
 hbet.pw
 hbet.sh
 hbet.so
+hbet.spa
 hbet.vc
 hbet.win
 hcm66.com
@@ -1478,6 +1485,7 @@ k88.art
 k88.bz
 k88.cam
 k88.club
+k88.day
 k88.mba
 k88.mobi
 k88.moe
@@ -1742,6 +1750,7 @@ lu88.nz
 lu88.pro
 lu88.pw
 lu88.tw
+lu88.vg
 luck6.com
 luck8.com
 luck8881.com
@@ -1881,6 +1890,7 @@ man88.bz
 man88.ch
 man88.cl
 man88.co
+man88.io
 man88.la
 man88.li
 man88.net
@@ -2496,6 +2506,7 @@ sock.sky88.com
 sock.sky88.in
 socket.9bet.army
 socket.9bet.band
+socket.9bet.care
 socket.9bet.green
 socket.9bet.mobi
 socket.9bet.win
@@ -2826,6 +2837,7 @@ tx88.in
 tx88.ing
 tx88.krd
 tx88.la
+tx88.land
 tx88.llc
 tx88.navy
 tx88.now
@@ -3066,6 +3078,7 @@ vu88.ng
 vu88.ro
 vu88.sh
 vu88.tv
+vu88.vu
 vu88.ws
 vua88.app
 vua88.biz
@@ -3228,6 +3241,7 @@ won88.com
 won88.win
 wp.9bet.army
 wp.9bet.band
+wp.9bet.care
 wp.9bet.green
 wp.9bet.mobi
 wp.9bet.win
@@ -3727,6 +3741,7 @@ xibet.nz
 xibet.pl
 xibet.red
 xibet.soy
+xibet.uno
 xibet.vg
 xibet.vu
 xibet.win
