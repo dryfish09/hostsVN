@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 06 Aug 2026 15:33 UTC+7
-! Version: 2608061533
-! Blocked: 64.797 rules
+! Last modified: 07 Aug 2026 14:31 UTC+7
+! Version: 2608071431
+! Blocked: 64.799 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -51318,6 +51318,7 @@
 ||mu922.com^
 ||mubet.best^
 ||mubet.dev^
+||mubet.info^
 ||mubet.media^
 ||mubet.sh^
 ||mubet.talk^
@@ -53495,6 +53496,7 @@
 ||pub88.day^
 ||pub88.forum^
 ||pub88.ltd^
+||pub88.monster^
 ||pub88.pw^
 ||pub88.win^
 ||pubease.xyz^

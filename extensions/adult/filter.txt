@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 06 Aug 2026 15:33 UTC+7
-! Version: 2608061533
-! Blocked: 22.497 rules
+! Last modified: 07 Aug 2026 14:31 UTC+7
+! Version: 2608071431
+! Blocked: 22.498 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -16314,6 +16314,7 @@
 ||qlxhua.com^
 ||qlxnhl.com^
 ||qlzuodian.com^
+||qmh.garden^
 ||qmh.gun.lat^
 ||qmh.quest^
 ||qmh.rest^

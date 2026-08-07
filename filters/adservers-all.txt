@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 06 Aug 2026 15:33 UTC+7
-! Version: 2608061533
-! Blocked: 8.665 rules
+! Last modified: 07 Aug 2026 14:32 UTC+7
+! Version: 2608071432
+! Blocked: 8.670 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -3772,6 +3772,7 @@
 ||ads.xtra.co.nz^
 ||ads.yimg.com^
 ||ads.yldmgrimg.net^
+||ads.zorvec.name^
 ||ads.zorvec.top^
 ||ads04.tapsense.com^
 ||ads1.mediacapital.pt^
@@ -6257,6 +6258,7 @@
 ||lumupu.xyz^
 ||lunarads.com^
 ||luxope.com^
+||lvesfrucnt.com^
 ||lwgadm.com^
 ||lwonclbench.com^
 ||lwxoothcoq.com^
@@ -6806,6 +6808,7 @@
 ||ota.cartrawler.com^
 ||othabqmag.com^
 ||otieu.com^
+||otqmunvibzp.in^
 ||oustoope.com^
 ||out-there-media.com^
 ||outbidplacardshowman.com^
@@ -7235,6 +7238,7 @@
 ||ramp.purch.com^
 ||rampanel.com^
 ||rampidads.com^
+||randxogc.com^
 ||rank-master.com^
 ||rankchamp.de^
 ||ranking-charts.de^
@@ -8598,6 +8602,7 @@
 ||ylog.huya.com^
 ||ymetrica1.com^
 ||ymtracking.com^
+||yo.hostalpitylus.shop^
 ||yoc-adserver.com^
 ||yoc-performance.com^
 ||yoggrt.com^

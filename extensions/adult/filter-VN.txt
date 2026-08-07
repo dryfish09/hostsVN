@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 06 Aug 2026 15:33 UTC+7
-! Version: 2608061533
-! Blocked: 1.885 rules
+! Last modified: 07 Aug 2026 14:31 UTC+7
+! Version: 2608071431
+! Blocked: 1.886 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1033,6 +1033,7 @@
 ||pornpic.org^
 ||pornzo.net^
 ||pphimsex.com^
+||qmh.garden^
 ||qmh.quest^
 ||qmh.rest^
 ||qmh.sex^
