@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains (Vietnamese language)
-! Last modified: 07 Aug 2026 14:31 UTC+7
-! Version: 2608071431
-! Blocked: 3.414 rules
+! Last modified: 10 Aug 2026 14:14 UTC+7
+! Version: 2608101414
+! Blocked: 3.432 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -43,6 +43,7 @@
 ||11win.mobi^
 ||11win.mx^
 ||11win.net^
+||11win.skin^
 ||11win.vin^
 ||11win.works^
 ||11zalo.com^
@@ -205,6 +206,7 @@
 ||789club.nu^
 ||789club.org^
 ||789club.sx^
+||789club.tr^
 ||789club.vg^
 ||789club.vin^
 ||789club.win^
@@ -326,6 +328,7 @@
 ||9bet.green^
 ||9bet.mobi^
 ||9bet.net^
+||9bet.photo^
 ||9bet.rest^
 ||9bet.win^
 ||9bet.world^
@@ -428,6 +431,7 @@
 ||api.9bet.care^
 ||api.9bet.green^
 ||api.9bet.mobi^
+||api.9bet.photo^
 ||api.9bet.win^
 ||api.ae888.com^
 ||api.ae88827.com^
@@ -882,6 +886,7 @@
 ||du88.blue^
 ||du88.cafe^
 ||du88.care^
+||du88.click^
 ||du88.club^
 ||du88.com^
 ||du88.fashion^
@@ -1143,6 +1148,7 @@
 ||gemwin.nz^
 ||gemwin.page^
 ||gemwin.rent^
+||gemwin.rsvp^
 ||gemwin.sale^
 ||gemwin.spot^
 ||gemwin.tax^
@@ -1173,6 +1179,7 @@
 ||go88.food^
 ||go88.live^
 ||go88.luxury^
+||go88.md^
 ||go88.me^
 ||go88.org^
 ||go88.study^
@@ -1903,6 +1910,7 @@
 ||man79.org^
 ||man88.biz^
 ||man88.bz^
+||man88.cfd^
 ||man88.ch^
 ||man88.cl^
 ||man88.co^
@@ -2192,6 +2200,7 @@
 ||play.fa88.win^
 ||play.gemwin.vip^
 ||play.go88.club^
+||play.go88.md^
 ||play.go88.tv^
 ||play.haywin.ai^
 ||play.haywin.space^
@@ -2223,6 +2232,7 @@
 ||play.vaob52.click^
 ||play.vic.hair^
 ||play.vicclub.ac^
+||play.vicclub.sh^
 ||play.vip79.top^
 ||play.win79.vip^
 ||play.win79d.com^
@@ -2496,6 +2506,7 @@
 ||sk.xibet.red^
 ||sk.xibet.soy^
 ||sk.xibet.vu^
+||sk.xibet.wtf^
 ||sk.zbet.ws^
 ||sky88.bet^
 ||sky88.club^
@@ -2534,6 +2545,7 @@
 ||socket.9bet.care^
 ||socket.9bet.green^
 ||socket.9bet.mobi^
+||socket.9bet.photo^
 ||socket.9bet.win^
 ||socket.debet.so^
 ||socket.debet.uk^
@@ -2857,6 +2869,7 @@
 ||tx88.fashion^
 ||tx88.fun^
 ||tx88.fyi^
+||tx88.games^
 ||tx88.hot^
 ||tx88.in^
 ||tx88.ing^
@@ -2977,6 +2990,7 @@
 ||vic88.mx^
 ||vic88.net^
 ||vicclub.ac^
+||vicclub.sh^
 ||victorwin555.com^
 ||vicwin.vip^
 ||vietvwin.com^
@@ -3093,6 +3107,7 @@
 ||vu88.com^
 ||vu88.cz^
 ||vu88.de^
+||vu88.fan^
 ||vu88.fm^
 ||vu88.in^
 ||vu88.la^
@@ -3273,6 +3288,7 @@
 ||wp.9bet.care^
 ||wp.9bet.green^
 ||wp.9bet.mobi^
+||wp.9bet.photo^
 ||wp.9bet.win^
 ||wp.debet79.info^
 ||wp.hdbet.com^
@@ -3321,6 +3337,7 @@
 ||xibet.vg^
 ||xibet.vu^
 ||xibet.win^
+||xibet.wtf^
 ||xidach.8day66.com^
 ||xingtou888.com^
 ||xn--hi-ji6caa.com^
@@ -3417,6 +3434,7 @@
 ||zowin.tv^
 ||zowin.tw^
 ||zowin.uno^
+||zowin.vg^
 ||zowin.vu^
 ||zowin.ws^
 ||zowinchinhhang.online^

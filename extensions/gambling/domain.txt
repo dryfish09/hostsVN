@@ -2584,6 +2584,7 @@
 11win.mobi
 11win.mx
 11win.net
+11win.skin
 11win.vin
 11win.works
 11win33.com
@@ -24147,6 +24148,7 @@
 789club.shop
 789club.sx
 789club.top
+789club.tr
 789club.vg
 789club.vin
 789club.win
@@ -31136,6 +31138,7 @@
 9bet.green
 9bet.mobi
 9bet.net
+9bet.photo
 9bet.rest
 9bet.win
 9bet.world
@@ -32074,6 +32077,7 @@ api.9bet.band
 api.9bet.care
 api.9bet.green
 api.9bet.mobi
+api.9bet.photo
 api.9bet.win
 api.ae888.com
 api.ae88827.com
@@ -32180,11 +32184,13 @@ api4.b5ipcoleser.net
 api4.h1ianc.org
 api4.storeip-shopify.com
 api4.storeip-xeuiff.io
+api4.trackipgoms.info
 api4.trakipsg.net
 api6.b5bakipcols.info
 api6.b5ipcoleser.net
 api6.storeip-shopify.com
 api6.storeip-xeuiff.io
+api6.trackipgoms.info
 api6.trakipsg.net
 api88888.com
 apilp-gateway.gzbtdzprof.club
@@ -38427,6 +38433,7 @@ du88.art
 du88.blue
 du88.cafe
 du88.care
+du88.click
 du88.club
 du88.com
 du88.fashion
@@ -41037,6 +41044,7 @@ gemwin.nz
 gemwin.onl
 gemwin.page
 gemwin.rent
+gemwin.rsvp
 gemwin.sale
 gemwin.spot
 gemwin.tax
@@ -41201,6 +41209,7 @@ go88.contractors
 go88.food
 go88.live
 go88.luxury
+go88.md
 go88.me
 go88.org
 go88.study
@@ -50434,6 +50443,7 @@ man1.club
 man79.org
 man88.biz
 man88.bz
+man88.cfd
 man88.ch
 man88.cl
 man88.co
@@ -53218,6 +53228,7 @@ play.fa88.win
 play.gamesappgoogo.com
 play.gemwin.vip
 play.go88.club
+play.go88.md
 play.go88.tv
 play.google.jogobego.com
 play.haywin.ai
@@ -53254,6 +53265,7 @@ play.topclub.casa
 play.vaob52.click
 play.vic.hair
 play.vicclub.ac
+play.vicclub.sh
 play.vip79.top
 play.vua72.club
 play.win79.vip
@@ -53831,6 +53843,7 @@ quayvk88.org
 quayxeng.2qwin.top
 queen99.com
 queenofholloway.com
+quehuongbiendao.vip
 quickraiseup.com
 quickue.com
 quikactionsports.com
@@ -55565,6 +55578,7 @@ sk.xibet.pl
 sk.xibet.red
 sk.xibet.soy
 sk.xibet.vu
+sk.xibet.wtf
 sk.zbet.ws
 sk051.com
 sk9905.com
@@ -55710,6 +55724,7 @@ socket.9bet.band
 socket.9bet.care
 socket.9bet.green
 socket.9bet.mobi
+socket.9bet.photo
 socket.9bet.win
 socket.debet.so
 socket.debet.uk
@@ -57608,6 +57623,7 @@ tx88.fan
 tx88.fashion
 tx88.fun
 tx88.fyi
+tx88.games
 tx88.hot
 tx88.in
 tx88.ing
@@ -58369,6 +58385,7 @@ uu88slots.com
 uu88sport.com
 uudaitp.com
 uudetnetticasino.com
+uutienhangviet.vip
 uutvhdzx.com
 uuu8222.com
 uuuu00.com
@@ -58982,6 +58999,7 @@ vic88.mx
 vic88.net
 vicbet.com
 vicclub.ac
+vicclub.sh
 victorwin555.com
 vicwin.vip
 vidor168.com
@@ -59608,6 +59626,7 @@ vu88.ac
 vu88.com
 vu88.cz
 vu88.de
+vu88.fan
 vu88.fm
 vu88.in
 vu88.la
@@ -61736,6 +61755,7 @@ wp.9bet.band
 wp.9bet.care
 wp.9bet.green
 wp.9bet.mobi
+wp.9bet.photo
 wp.9bet.win
 wp.appwin79.biz
 wp.debet79.info
@@ -63452,6 +63472,7 @@ xibet.uno
 xibet.vg
 xibet.vu
 xibet.win
+xibet.wtf
 xidach.8day66.com
 xifali.com
 xihanmulian.com
@@ -65747,6 +65768,7 @@ zowin.sx
 zowin.tv
 zowin.tw
 zowin.uno
+zowin.vg
 zowin.vu
 zowin.ws
 zowinchinhhang.online

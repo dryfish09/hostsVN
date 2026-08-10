@@ -61877,6 +61877,8 @@ samdodulich.vip
 banhngonmiennam.vip
 quanaothanhly.vip
 maytinhgiare.vip
+uutienhangviet.vip
+quehuongbiendao.vip
 # --- Block tracking gambling ---
 mostauthor.com
 rstat.rockmostbet.com
@@ -61967,6 +61969,8 @@ cdn.live-tracking.io
 ingest.live-tracking.io
 api.chamsockhachhang.live
 sdk.chamsockhachhang.live
+api4.trackipgoms.info
+api6.trackipgoms.info
 # --- Czech gambling sites ---
 betano.cz
 www.betano.cz

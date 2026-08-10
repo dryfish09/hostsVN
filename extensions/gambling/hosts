@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 07 Aug 2026 14:31 UTC+7
-# Version: 2608071431
-# Blocked: 65.866 domains
+# Last modified: 10 Aug 2026 14:14 UTC+7
+# Version: 2608101414
+# Blocked: 65.888 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2595,6 +2595,7 @@
 0.0.0.0 11win.mobi
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
+0.0.0.0 11win.skin
 0.0.0.0 11win.vin
 0.0.0.0 11win.works
 0.0.0.0 11win33.com
@@ -24158,6 +24159,7 @@
 0.0.0.0 789club.shop
 0.0.0.0 789club.sx
 0.0.0.0 789club.top
+0.0.0.0 789club.tr
 0.0.0.0 789club.vg
 0.0.0.0 789club.vin
 0.0.0.0 789club.win
@@ -31147,6 +31149,7 @@
 0.0.0.0 9bet.green
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
+0.0.0.0 9bet.photo
 0.0.0.0 9bet.rest
 0.0.0.0 9bet.win
 0.0.0.0 9bet.world
@@ -32085,6 +32088,7 @@
 0.0.0.0 api.9bet.care
 0.0.0.0 api.9bet.green
 0.0.0.0 api.9bet.mobi
+0.0.0.0 api.9bet.photo
 0.0.0.0 api.9bet.win
 0.0.0.0 api.ae888.com
 0.0.0.0 api.ae88827.com
@@ -32191,11 +32195,13 @@
 0.0.0.0 api4.h1ianc.org
 0.0.0.0 api4.storeip-shopify.com
 0.0.0.0 api4.storeip-xeuiff.io
+0.0.0.0 api4.trackipgoms.info
 0.0.0.0 api4.trakipsg.net
 0.0.0.0 api6.b5bakipcols.info
 0.0.0.0 api6.b5ipcoleser.net
 0.0.0.0 api6.storeip-shopify.com
 0.0.0.0 api6.storeip-xeuiff.io
+0.0.0.0 api6.trackipgoms.info
 0.0.0.0 api6.trakipsg.net
 0.0.0.0 api88888.com
 0.0.0.0 apilp-gateway.gzbtdzprof.club
@@ -38438,6 +38444,7 @@
 0.0.0.0 du88.blue
 0.0.0.0 du88.cafe
 0.0.0.0 du88.care
+0.0.0.0 du88.click
 0.0.0.0 du88.club
 0.0.0.0 du88.com
 0.0.0.0 du88.fashion
@@ -41048,6 +41055,7 @@
 0.0.0.0 gemwin.onl
 0.0.0.0 gemwin.page
 0.0.0.0 gemwin.rent
+0.0.0.0 gemwin.rsvp
 0.0.0.0 gemwin.sale
 0.0.0.0 gemwin.spot
 0.0.0.0 gemwin.tax
@@ -41212,6 +41220,7 @@
 0.0.0.0 go88.food
 0.0.0.0 go88.live
 0.0.0.0 go88.luxury
+0.0.0.0 go88.md
 0.0.0.0 go88.me
 0.0.0.0 go88.org
 0.0.0.0 go88.study
@@ -50445,6 +50454,7 @@
 0.0.0.0 man79.org
 0.0.0.0 man88.biz
 0.0.0.0 man88.bz
+0.0.0.0 man88.cfd
 0.0.0.0 man88.ch
 0.0.0.0 man88.cl
 0.0.0.0 man88.co
@@ -53229,6 +53239,7 @@
 0.0.0.0 play.gamesappgoogo.com
 0.0.0.0 play.gemwin.vip
 0.0.0.0 play.go88.club
+0.0.0.0 play.go88.md
 0.0.0.0 play.go88.tv
 0.0.0.0 play.google.jogobego.com
 0.0.0.0 play.haywin.ai
@@ -53265,6 +53276,7 @@
 0.0.0.0 play.vaob52.click
 0.0.0.0 play.vic.hair
 0.0.0.0 play.vicclub.ac
+0.0.0.0 play.vicclub.sh
 0.0.0.0 play.vip79.top
 0.0.0.0 play.vua72.club
 0.0.0.0 play.win79.vip
@@ -53842,6 +53854,7 @@
 0.0.0.0 quayxeng.2qwin.top
 0.0.0.0 queen99.com
 0.0.0.0 queenofholloway.com
+0.0.0.0 quehuongbiendao.vip
 0.0.0.0 quickraiseup.com
 0.0.0.0 quickue.com
 0.0.0.0 quikactionsports.com
@@ -55576,6 +55589,7 @@
 0.0.0.0 sk.xibet.red
 0.0.0.0 sk.xibet.soy
 0.0.0.0 sk.xibet.vu
+0.0.0.0 sk.xibet.wtf
 0.0.0.0 sk.zbet.ws
 0.0.0.0 sk051.com
 0.0.0.0 sk9905.com
@@ -55721,6 +55735,7 @@
 0.0.0.0 socket.9bet.care
 0.0.0.0 socket.9bet.green
 0.0.0.0 socket.9bet.mobi
+0.0.0.0 socket.9bet.photo
 0.0.0.0 socket.9bet.win
 0.0.0.0 socket.debet.so
 0.0.0.0 socket.debet.uk
@@ -57619,6 +57634,7 @@
 0.0.0.0 tx88.fashion
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fyi
+0.0.0.0 tx88.games
 0.0.0.0 tx88.hot
 0.0.0.0 tx88.in
 0.0.0.0 tx88.ing
@@ -58380,6 +58396,7 @@
 0.0.0.0 uu88sport.com
 0.0.0.0 uudaitp.com
 0.0.0.0 uudetnetticasino.com
+0.0.0.0 uutienhangviet.vip
 0.0.0.0 uutvhdzx.com
 0.0.0.0 uuu8222.com
 0.0.0.0 uuuu00.com
@@ -58993,6 +59010,7 @@
 0.0.0.0 vic88.net
 0.0.0.0 vicbet.com
 0.0.0.0 vicclub.ac
+0.0.0.0 vicclub.sh
 0.0.0.0 victorwin555.com
 0.0.0.0 vicwin.vip
 0.0.0.0 vidor168.com
@@ -59619,6 +59637,7 @@
 0.0.0.0 vu88.com
 0.0.0.0 vu88.cz
 0.0.0.0 vu88.de
+0.0.0.0 vu88.fan
 0.0.0.0 vu88.fm
 0.0.0.0 vu88.in
 0.0.0.0 vu88.la
@@ -61747,6 +61766,7 @@
 0.0.0.0 wp.9bet.care
 0.0.0.0 wp.9bet.green
 0.0.0.0 wp.9bet.mobi
+0.0.0.0 wp.9bet.photo
 0.0.0.0 wp.9bet.win
 0.0.0.0 wp.appwin79.biz
 0.0.0.0 wp.debet79.info
@@ -63463,6 +63483,7 @@
 0.0.0.0 xibet.vg
 0.0.0.0 xibet.vu
 0.0.0.0 xibet.win
+0.0.0.0 xibet.wtf
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xifali.com
 0.0.0.0 xihanmulian.com
@@ -65758,6 +65779,7 @@
 0.0.0.0 zowin.tv
 0.0.0.0 zowin.tw
 0.0.0.0 zowin.uno
+0.0.0.0 zowin.vg
 0.0.0.0 zowin.vu
 0.0.0.0 zowin.ws
 0.0.0.0 zowinchinhhang.online

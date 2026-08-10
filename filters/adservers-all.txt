@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 07 Aug 2026 14:32 UTC+7
-! Version: 2608071432
-! Blocked: 8.670 rules
+! Last modified: 10 Aug 2026 14:14 UTC+7
+! Version: 2608101414
+! Blocked: 8.677 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -4581,8 +4581,10 @@
 ||brygella.com^
 ||brynh-lei.com^
 ||bt.teparytympan.qpon^
+||btbeacdhrdt.com^
 ||btguqecoelukltw.com^
 ||btpnative.com^
+||bttupamp.com^
 ||bucksense.com^
 ||buffooncountabletreble.com^
 ||bulbbait.com^
@@ -5140,6 +5142,7 @@
 ||deloo.de^
 ||deloton.com^
 ||demand.supply^
+||demeaninganglicisearticle.com^
 ||denbeigemark.com^
 ||denetsuk.com^
 ||deostr.com^
@@ -6703,6 +6706,7 @@
 ||odqdkealzr.com^
 ||oewa.at^
 ||ofcgcdcvk.com^
+||ofdajwabl.in^
 ||offclaydolon.com^
 ||offerforge.com^
 ||offerfusion.com^
@@ -7182,6 +7186,7 @@
 ||qahntenkyf.com^
 ||qakcceob.com^
 ||qayuwjcpfxusg.website^
+||qcinouznrsvnqa.com^
 ||qctop.com^
 ||qgxbluhsgad.com^
 ||qingolor.com^
@@ -7191,6 +7196,7 @@
 ||qlucmyomqatcz.online^
 ||qmyoclrszpanh.website^
 ||qn.unspedtaction.com^
+||qnbeenbgsx.com^
 ||qnp16tstw.com^
 ||qnsr.com^
 ||qo.errorrespan.com^
@@ -8619,6 +8625,7 @@
 ||yuilop.com^
 ||yume.com^
 ||yvcchjdiqzpog.rocks^
+||yx.crappininvein.shop^
 ||yx.mousesprepuce.shop^
 ||yyselrqpyu.com^
 ||yzwtz.com^
