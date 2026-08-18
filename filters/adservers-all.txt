@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 10 Aug 2026 14:14 UTC+7
-! Version: 2608101414
-! Blocked: 8.677 rules
+! Last modified: 18 Aug 2026 13:56 UTC+7
+! Version: 2608181356
+! Blocked: 8.688 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -1607,7 +1607,9 @@
 ||cdnativepush.com^
 ||cdnaz.win^
 ||cdnwidget.com^
+||cdp-eu.customer.io^
 ||cdp.cloud.unity3d.com^
+||cdp.customer.io^
 ||ced-ns.sascdn.com^
 ||ced.sascdn.com^
 ||celtra.com^
@@ -1717,7 +1719,6 @@
 ||ct.pinterest.com^
 ||ctnsnet.com^
 ||customad.cnn.com^
-||customer.io^
 ||cws.conviva.com^
 ||cxense.com^
 ||czilladx.com^
@@ -2467,6 +2468,7 @@
 ||optoutadvertising.com^
 ||optvx.com^
 ||orbsrv.com^
+||orion.bendingspoons.com^
 ||os-mon.zijieapi.com^
 ||otm-r.com^
 ||otnolatrnup.com^
@@ -2936,7 +2938,9 @@
 ||tr.ssp.bance.jp^
 ||tr6.snapchat.com^
 ||trace.qq.com^
+||track-sdk.customer.io^
 ||track.analytics-data.io^
+||track.customer.io^
 ||track.dictionary.com^
 ||track.starmakerstudios.com^
 ||track.thesaurus.com^
@@ -4460,6 +4464,7 @@
 ||betteradsystem.com^
 ||bewilderedblade.com^
 ||beyondsecurity.com^
+||bfwzpynoz.com^
 ||bg4nxu2u5t.com^
 ||bharalhallahs.com^
 ||bhcumsc.com^
@@ -5176,6 +5181,7 @@
 ||directorym.com^
 ||directpaper.name^
 ||directtrack.com^
+||dirigibleharbornewspaper.com^
 ||discountclick.com^
 ||discountplacidlysymphony.com^
 ||discourageabjure.com^
@@ -5348,6 +5354,7 @@
 ||emjcd.com^
 ||emltrk.com^
 ||emxdigital.com^
+||endlesshandbaglinked.com^
 ||endowmentoverhangutmost.com^
 ||endurosweekday.com^
 ||engine.espace.netavenir.com^
@@ -5803,6 +5810,7 @@
 ||hotrank.com.tw^
 ||howdoesin.net^
 ||hppvkbfcuq.com^
+||hqhxfrcxxky.com^
 ||hscta.net^
 ||hsych.com^
 ||htlbid.com^
@@ -6545,6 +6553,7 @@
 ||mytdsnet.com^
 ||mythings.com^
 ||mytop-in.net^
+||mz.elapsehorsier.cyou^
 ||mz.proxysmjameson.cfd^
 ||mzyvyjsq.com^
 ||n69.com^
@@ -7467,6 +7476,7 @@
 ||salecycle.com^
 ||salesiq.zoho.com^
 ||salesloft.com^
+||salutetutortwiddling.com^
 ||sam4m.com^
 ||sancontr.com^
 ||sanoslkut.in^
@@ -8630,6 +8640,7 @@
 ||yyselrqpyu.com^
 ||yzwtz.com^
 ||z5x.net^
+||zamabholqonh.in^
 ||zangocash.com^
 ||zanox-affiliate.de^
 ||zanox.com^

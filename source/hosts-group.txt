@@ -10580,9 +10580,8 @@ ads-adaptv.vidible.tv
 ads-trk.vidible.tv
 trk.vidible.tv
 #[customer.io]
-assets.customer.io
-customer.io
-edge-west.customer.io
+cdp-eu.customer.io
+cdp.customer.io
 track-sdk.customer.io
 track.customer.io
 #[snapchat.com]
@@ -12552,3 +12551,6 @@ gamestats.easybrain.com
 s3-analytics-events.easybrain.com
 s3-ca-liveops.easybrain.com
 s3-playable-ads.easybrain.com
+#[orion.bendingspoons.com]
+orion.bendingspoons.com
+storage.orion.bendingspoons.com

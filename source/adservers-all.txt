@@ -756,7 +756,9 @@ cdnads.com
 cdnativepush.com
 cdnaz.win
 cdnwidget.com
+cdp-eu.customer.io
 cdp.cloud.unity3d.com
+cdp.customer.io
 ced-ns.sascdn.com
 ced.sascdn.com
 celtra.com
@@ -866,7 +868,6 @@ csp.secureserver.net
 ct.pinterest.com
 ctnsnet.com
 customad.cnn.com
-customer.io
 cws.conviva.com
 cxense.com
 czilladx.com
@@ -1616,6 +1617,7 @@ optmnstr.com
 optoutadvertising.com
 optvx.com
 orbsrv.com
+orion.bendingspoons.com
 os-mon.zijieapi.com
 otm-r.com
 otnolatrnup.com
@@ -2085,7 +2087,9 @@ tr.snapchat.com
 tr.ssp.bance.jp
 tr6.snapchat.com
 trace.qq.com
+track-sdk.customer.io
 track.analytics-data.io
+track.customer.io
 track.dictionary.com
 track.starmakerstudios.com
 track.thesaurus.com

@@ -484,6 +484,7 @@ javfinder.li
 javgg.me
 javgg.sbs
 javgiga.com
+javhay.buzz
 javhay.click
 javhay.co
 javhay.cyou
@@ -521,6 +522,7 @@ javhdhay.me
 javhdhay.us
 javhdhayz.com
 javhdvietsub.com
+javhdz.city
 javhdz.fun
 javhdz.hot
 javhdz.pro
@@ -1665,6 +1667,7 @@ vlxx.mobi
 vlxx.moe
 vlxx.moi
 vlxx.money
+vlxx.ms
 vlxx.mx
 vlxx.net
 vlxx.network
