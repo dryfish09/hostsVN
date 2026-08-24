@@ -1,7 +1,7 @@
 # Title: hostsVN Threat VN
-# Last modified: 18 Aug 2026 13:56 UTC+7
-# Version: 2608181356
-# Blocked: 4.447 domains
+# Last modified: 24 Aug 2026 13:45 UTC+7
+# Version: 2608241345
+# Blocked: 4.450 domains
 # Only include threat domains (Vietnamese language)
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -25,6 +25,7 @@
 0.0.0.0 1cash.info
 0.0.0.0 1is7m7.cyou
 0.0.0.0 1ksale.com
+0.0.0.0 2305748.cc
 0.0.0.0 24-7-vidientu.com
 0.0.0.0 24-7bank.com
 0.0.0.0 247-banking.com
@@ -46,6 +47,8 @@
 0.0.0.0 3615738.xyz
 0.0.0.0 365bet.shop
 0.0.0.0 456vdghgj30.dyndns.org
+0.0.0.0 462215.help
+0.0.0.0 4668843.cc
 0.0.0.0 555lotte.com
 0.0.0.0 555shopify.com
 0.0.0.0 558-558-559.com

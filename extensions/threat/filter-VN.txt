@@ -1,8 +1,8 @@
 ! Title: hostsVN Threat
 ! Description: Only include threat domains (Vietnamese language)
-! Last modified: 18 Aug 2026 13:56 UTC+7
-! Version: 2608181356
-! Blocked: 4.376 rules
+! Last modified: 24 Aug 2026 13:45 UTC+7
+! Version: 2608241345
+! Blocked: 4.379 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -22,6 +22,7 @@
 ||1cash.info^
 ||1is7m7.cyou^
 ||1ksale.com^
+||2305748.cc^
 ||24-7-vidientu.com^
 ||24-7bank.com^
 ||247-banking.com^
@@ -43,6 +44,8 @@
 ||3615738.xyz^
 ||365bet.shop^
 ||456vdghgj30.dyndns.org^
+||462215.help^
+||4668843.cc^
 ||555lotte.com^
 ||555shopify.com^
 ||558-558-559.com^
