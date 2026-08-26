@@ -1,6 +1,6 @@
 # Title: hostsVN
-# Last modified: 24 Aug 2026 13:45 UTC+7
-# Version: 2608241345
+# Last modified: 26 Aug 2026 22:18 UTC+7
+# Version: 2608262218
 # Blocked: 18.383 domains
 # Please report any ads or problems on GitHub
 # Homepage: https://bigdargon.github.io/hostsVN/
@@ -9589,7 +9589,7 @@
 #[api-*.bidmachine.io]
 0.0.0.0 bidmachine.io
 0.0.0.0 api-apac.bidmachine.io
-0.0.0.0 api-eu-a.bidmachine.io.
+0.0.0.0 api-eu-a.bidmachine.io
 0.0.0.0 api-eu.bidmachine.io
 0.0.0.0 api-us.bidmachine.io
 0.0.0.0 api.bidmachine.io
