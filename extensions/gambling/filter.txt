@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 24 Aug 2026 13:45 UTC+7
-! Version: 2608241345
-! Blocked: 64.866 rules
+! Last modified: 27 Aug 2026 14:23 UTC+7
+! Version: 2608271423
+! Blocked: 64.888 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2595,6 +2595,7 @@
 ||11win.mx^
 ||11win.net^
 ||11win.skin^
+||11win.style^
 ||11win.tips^
 ||11win.vin^
 ||11win.works^
@@ -14232,12 +14233,14 @@
 ||3ac7773.com^
 ||3ag88.com^
 ||3banca.com^
+||3bet.adqc.net^
 ||3bet.baby^
 ||3bet.bet^
 ||3bet.bike^
 ||3bet.biz^
 ||3bet.center^
 ||3bet.city^
+||3bet.fund^
 ||3bet.host^
 ||3bet.la^
 ||3bet.llc^
@@ -31162,6 +31165,7 @@
 ||9bet.diy^
 ||9bet.fund^
 ||9bet.green^
+||9bet.krd^
 ||9bet.mobi^
 ||9bet.net^
 ||9bet.photo^
@@ -32107,6 +32111,7 @@
 ||api.9bet.diy^
 ||api.9bet.fund^
 ||api.9bet.green^
+||api.9bet.krd^
 ||api.9bet.mobi^
 ||api.9bet.photo^
 ||api.9bet.win^
@@ -38481,6 +38486,7 @@
 ||du88.in^
 ||du88.info^
 ||du88.life^
+||du88.mba^
 ||du88.pro^
 ||du88.rent^
 ||du88.sh^
@@ -41525,6 +41531,7 @@
 ||gw.gen88.com^
 ||gw.mubet.media^
 ||gw.mubet.talk^
+||gw.mubet.tips^
 ||gw.mubet.vip^
 ||gw.tot88.store^
 ||gw.zqvnn.com^
@@ -42064,6 +42071,7 @@
 ||hbet.sh^
 ||hbet.so^
 ||hbet.spa^
+||hbet.srl^
 ||hbet.vc^
 ||hbet.win^
 ||hbet888.com^
@@ -47536,6 +47544,7 @@
 ||k88.mobi^
 ||k88.moe^
 ||k88.mov^
+||k88.now^
 ||k88.nz^
 ||k88.pro^
 ||k88.soy^
@@ -49450,6 +49459,7 @@
 ||lu88.com^
 ||lu88.de^
 ||lu88.ec^
+||lu88.foo^
 ||lu88.gd^
 ||lu88.gdn^
 ||lu88.kim^
@@ -50515,6 +50525,7 @@
 ||man88.vip^
 ||man88.vu^
 ||man88.win^
+||man88.wtf^
 ||man88.xin^
 ||manabane.com^
 ||manasbotop.com^
@@ -51359,6 +51370,7 @@
 ||mubet.media^
 ||mubet.sh^
 ||mubet.talk^
+||mubet.tips^
 ||mubet.video^
 ||mubet.vip^
 ||mubet.website^
@@ -53326,6 +53338,7 @@
 ||play.vic.hair^
 ||play.vicclub.ac^
 ||play.vicclub.id^
+||play.vicclub.mx^
 ||play.vicclub.sh^
 ||play.vip79.top^
 ||play.vua72.club^
@@ -53536,6 +53549,7 @@
 ||pub88.camera^
 ||pub88.channel^
 ||pub88.charity^
+||pub88.college^
 ||pub88.com^
 ||pub88.day^
 ||pub88.forum^
@@ -55650,6 +55664,7 @@
 ||sk.xibet.tax^
 ||sk.xibet.vu^
 ||sk.xibet.wtf^
+||sk.xibet.you^
 ||sk.zbet.ws^
 ||sk051.com^
 ||sk9905.com^
@@ -55796,6 +55811,7 @@
 ||socket.9bet.diy^
 ||socket.9bet.fund^
 ||socket.9bet.green^
+||socket.9bet.krd^
 ||socket.9bet.mobi^
 ||socket.9bet.photo^
 ||socket.9bet.win^
@@ -56052,6 +56068,7 @@
 ||static.gem88.com^
 ||static.gem88.guru^
 ||static.hi88.de^
+||static.j001d.com^
 ||static.lu88.com^
 ||static.roibest.com^
 ||static.snstimg.com^
@@ -57694,6 +57711,7 @@
 ||tx88.download^
 ||tx88.fan^
 ||tx88.fashion^
+||tx88.free^
 ||tx88.fun^
 ||tx88.fund^
 ||tx88.fyi^
@@ -59076,6 +59094,7 @@
 ||vicbet.com^
 ||vicclub.ac^
 ||vicclub.id^
+||vicclub.mx^
 ||vicclub.sh^
 ||victorwin555.com^
 ||vicwin.vip^
@@ -59702,6 +59721,7 @@
 ||vtyf58.com^
 ||vtyt0.com^
 ||vu88.ac^
+||vu88.best^
 ||vu88.com^
 ||vu88.cz^
 ||vu88.de^
@@ -61838,6 +61858,7 @@
 ||wp.9bet.diy^
 ||wp.9bet.fund^
 ||wp.9bet.green^
+||wp.9bet.krd^
 ||wp.9bet.mobi^
 ||wp.9bet.photo^
 ||wp.9bet.win^
@@ -62457,6 +62478,7 @@
 ||xibet.vu^
 ||xibet.win^
 ||xibet.wtf^
+||xibet.you^
 ||xidach.8day66.com^
 ||xifali.com^
 ||xihanmulian.com^

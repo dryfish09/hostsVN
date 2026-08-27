@@ -1,7 +1,7 @@
 # Title: hostsVN Gambling
-# Last modified: 24 Aug 2026 13:45 UTC+7
-# Version: 2608241345
-# Blocked: 65.933 domains
+# Last modified: 27 Aug 2026 14:23 UTC+7
+# Version: 2608271423
+# Blocked: 65.955 domains
 # Only include gambling domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -2598,6 +2598,7 @@
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
 0.0.0.0 11win.skin
+0.0.0.0 11win.style
 0.0.0.0 11win.tips
 0.0.0.0 11win.vin
 0.0.0.0 11win.works
@@ -14228,12 +14229,14 @@
 0.0.0.0 3ac7773.com
 0.0.0.0 3ag88.com
 0.0.0.0 3banca.com
+0.0.0.0 3bet.adqc.net
 0.0.0.0 3bet.baby
 0.0.0.0 3bet.bet
 0.0.0.0 3bet.bike
 0.0.0.0 3bet.biz
 0.0.0.0 3bet.center
 0.0.0.0 3bet.city
+0.0.0.0 3bet.fund
 0.0.0.0 3bet.host
 0.0.0.0 3bet.la
 0.0.0.0 3bet.llc
@@ -31155,6 +31158,7 @@
 0.0.0.0 9bet.diy
 0.0.0.0 9bet.fund
 0.0.0.0 9bet.green
+0.0.0.0 9bet.krd
 0.0.0.0 9bet.mobi
 0.0.0.0 9bet.net
 0.0.0.0 9bet.photo
@@ -32098,6 +32102,7 @@
 0.0.0.0 api.9bet.diy
 0.0.0.0 api.9bet.fund
 0.0.0.0 api.9bet.green
+0.0.0.0 api.9bet.krd
 0.0.0.0 api.9bet.mobi
 0.0.0.0 api.9bet.photo
 0.0.0.0 api.9bet.win
@@ -38468,6 +38473,7 @@
 0.0.0.0 du88.in
 0.0.0.0 du88.info
 0.0.0.0 du88.life
+0.0.0.0 du88.mba
 0.0.0.0 du88.pro
 0.0.0.0 du88.rent
 0.0.0.0 du88.sh
@@ -41510,6 +41516,7 @@
 0.0.0.0 gw.gen88.com
 0.0.0.0 gw.mubet.media
 0.0.0.0 gw.mubet.talk
+0.0.0.0 gw.mubet.tips
 0.0.0.0 gw.mubet.vip
 0.0.0.0 gw.tot88.store
 0.0.0.0 gw.zqvnn.com
@@ -42048,6 +42055,7 @@
 0.0.0.0 hbet.sh
 0.0.0.0 hbet.so
 0.0.0.0 hbet.spa
+0.0.0.0 hbet.srl
 0.0.0.0 hbet.vc
 0.0.0.0 hbet.win
 0.0.0.0 hbet888.com
@@ -47519,6 +47527,7 @@
 0.0.0.0 k88.mobi
 0.0.0.0 k88.moe
 0.0.0.0 k88.mov
+0.0.0.0 k88.now
 0.0.0.0 k88.nz
 0.0.0.0 k88.pro
 0.0.0.0 k88.soy
@@ -49433,6 +49442,7 @@
 0.0.0.0 lu88.com
 0.0.0.0 lu88.de
 0.0.0.0 lu88.ec
+0.0.0.0 lu88.foo
 0.0.0.0 lu88.gd
 0.0.0.0 lu88.gdn
 0.0.0.0 lu88.kim
@@ -50498,6 +50508,7 @@
 0.0.0.0 man88.vip
 0.0.0.0 man88.vu
 0.0.0.0 man88.win
+0.0.0.0 man88.wtf
 0.0.0.0 man88.xin
 0.0.0.0 manabane.com
 0.0.0.0 manasbotop.com
@@ -51339,6 +51350,7 @@
 0.0.0.0 mubet.media
 0.0.0.0 mubet.sh
 0.0.0.0 mubet.talk
+0.0.0.0 mubet.tips
 0.0.0.0 mubet.video
 0.0.0.0 mubet.vip
 0.0.0.0 mubet.website
@@ -53305,6 +53317,7 @@
 0.0.0.0 play.vic.hair
 0.0.0.0 play.vicclub.ac
 0.0.0.0 play.vicclub.id
+0.0.0.0 play.vicclub.mx
 0.0.0.0 play.vicclub.sh
 0.0.0.0 play.vip79.top
 0.0.0.0 play.vua72.club
@@ -53515,6 +53528,7 @@
 0.0.0.0 pub88.camera
 0.0.0.0 pub88.channel
 0.0.0.0 pub88.charity
+0.0.0.0 pub88.college
 0.0.0.0 pub88.com
 0.0.0.0 pub88.day
 0.0.0.0 pub88.forum
@@ -55623,6 +55637,7 @@
 0.0.0.0 sk.xibet.tax
 0.0.0.0 sk.xibet.vu
 0.0.0.0 sk.xibet.wtf
+0.0.0.0 sk.xibet.you
 0.0.0.0 sk.zbet.ws
 0.0.0.0 sk051.com
 0.0.0.0 sk9905.com
@@ -55769,6 +55784,7 @@
 0.0.0.0 socket.9bet.diy
 0.0.0.0 socket.9bet.fund
 0.0.0.0 socket.9bet.green
+0.0.0.0 socket.9bet.krd
 0.0.0.0 socket.9bet.mobi
 0.0.0.0 socket.9bet.photo
 0.0.0.0 socket.9bet.win
@@ -56025,6 +56041,7 @@
 0.0.0.0 static.gem88.com
 0.0.0.0 static.gem88.guru
 0.0.0.0 static.hi88.de
+0.0.0.0 static.j001d.com
 0.0.0.0 static.lu88.com
 0.0.0.0 static.roibest.com
 0.0.0.0 static.snstimg.com
@@ -57667,6 +57684,7 @@
 0.0.0.0 tx88.download
 0.0.0.0 tx88.fan
 0.0.0.0 tx88.fashion
+0.0.0.0 tx88.free
 0.0.0.0 tx88.fun
 0.0.0.0 tx88.fund
 0.0.0.0 tx88.fyi
@@ -59048,6 +59066,7 @@
 0.0.0.0 vicbet.com
 0.0.0.0 vicclub.ac
 0.0.0.0 vicclub.id
+0.0.0.0 vicclub.mx
 0.0.0.0 vicclub.sh
 0.0.0.0 victorwin555.com
 0.0.0.0 vicwin.vip
@@ -59672,6 +59691,7 @@
 0.0.0.0 vtyf58.com
 0.0.0.0 vtyt0.com
 0.0.0.0 vu88.ac
+0.0.0.0 vu88.best
 0.0.0.0 vu88.com
 0.0.0.0 vu88.cz
 0.0.0.0 vu88.de
@@ -61807,6 +61827,7 @@
 0.0.0.0 wp.9bet.diy
 0.0.0.0 wp.9bet.fund
 0.0.0.0 wp.9bet.green
+0.0.0.0 wp.9bet.krd
 0.0.0.0 wp.9bet.mobi
 0.0.0.0 wp.9bet.photo
 0.0.0.0 wp.9bet.win
@@ -63527,6 +63548,7 @@
 0.0.0.0 xibet.vu
 0.0.0.0 xibet.win
 0.0.0.0 xibet.wtf
+0.0.0.0 xibet.you
 0.0.0.0 xidach.8day66.com
 0.0.0.0 xifali.com
 0.0.0.0 xihanmulian.com

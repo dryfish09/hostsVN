@@ -10159,6 +10159,7 @@ javhdz.city
 javhdz.fun
 javhdz.hot
 javhdz.pro
+javhdz.pw
 javhdz.red
 javhdz.wine
 javhdzz.net

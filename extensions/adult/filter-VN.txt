@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 24 Aug 2026 13:45 UTC+7
-! Version: 2608241345
-! Blocked: 1.893 rules
+! Last modified: 27 Aug 2026 14:23 UTC+7
+! Version: 2608271423
+! Blocked: 1.894 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -537,6 +537,7 @@
 ||javhdz.fun^
 ||javhdz.hot^
 ||javhdz.pro^
+||javhdz.pw^
 ||javhdz.red^
 ||javhdz.wine^
 ||javhiv.com^

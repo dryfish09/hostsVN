@@ -1784,6 +1784,7 @@ javhdz.city
 vlxx.phd
 javhdz.cam
 javsub.blog
+javhdz.pw
 # --- Block hentaiVN ---
 truyenhentai.bio
 truyenhentai18.net

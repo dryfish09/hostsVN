@@ -155,10 +155,7 @@ androidtvchannels-pa.googleapis.com
 androidtvwatsonfe-pa.googleapis.com
 clientmetrics-pa.googleapis.com
 clouderrorreporting.googleapis.com
-crashlyticsreports-pa.googleapis.com
 federatedcompute-pa.googleapis.com
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
 ogads-pa.clients6.google.com
 ogads-pa.googleapis.com
 #[l.google.com]
@@ -9605,14 +9602,6 @@ delivery.g.switchadhub.com
 delivery.swid.switchadhub.com
 delivery.switchadhub.com
 switchadhub.com
-#[crashlytics.com]
-api.crashlytics.com
-crashlytics.com
-e.crashlytics.com
-firebase-settings.crashlytics.com
-reports.crashlytics.com
-settings.crashlytics.com
-update.crashlytics.com
 #[unblockia.com]
 api.unblockia.com
 cdn.unblockia.com

@@ -849,8 +849,6 @@ cpmstar.com
 cpro.baidustatic.com
 cpx.to
 cquotient.com
-crashlytics.com
-crashlyticsreports-pa.googleapis.com
 crazyegg.com
 creative.sphdigital.com
 creativecdn.com
@@ -1039,8 +1037,6 @@ fidelity-media.com
 fiftyt.com
 filament-stats.herokuapp.com
 finallygotthexds.site
-firebaselogging-pa.googleapis.com
-firebaselogging.googleapis.com
 firstimpression.io
 fivecdm.com
 flash.sec.intl.miui.com

@@ -1692,8 +1692,6 @@
 *.cpro.baidustatic.com
 *.cpx.to
 *.cquotient.com
-*.crashlytics.com
-*.crashlyticsreports-pa.googleapis.com
 *.crazyegg.com
 *.creative.sphdigital.com
 *.creativecdn.com
@@ -1882,8 +1880,6 @@
 *.fiftyt.com
 *.filament-stats.herokuapp.com
 *.finallygotthexds.site
-*.firebaselogging-pa.googleapis.com
-*.firebaselogging.googleapis.com
 *.firstimpression.io
 *.fivecdm.com
 *.flash.sec.intl.miui.com
@@ -4496,6 +4492,7 @@
 *.blogtoplist.se
 *.blogtopsites.com
 *.bluadz.com
+*.blue-ribbonmacadamizeprovide.com
 *.blue.thehill.com
 *.bluecava.com
 *.blueconic.net
@@ -5113,6 +5110,7 @@
 *.dbancamd.com
 *.dbr9gtaf8.com
 *.dbtarget.com
+*.dbxexsnxxzwwo.com
 *.dc-storm.com
 *.dc8xl0ndzn2cb.cloudfront.net
 *.dcbbwymp1bhlf.cloudfront.net
@@ -6723,6 +6721,7 @@
 *.ofjujdmsylvmo.website
 *.ofleafeona.com
 *.og-shopee9.com
+*.og.tiglicsethian.com
 *.oghqvffmnt.com
 *.ogpriuleifns.com
 *.ohtctjiuow.com
@@ -7200,6 +7199,7 @@
 *.qmyoclrszpanh.website
 *.qn.unspedtaction.com
 *.qnbeenbgsx.com
+*.qnenxwwxzav.com
 *.qnp16tstw.com
 *.qnsr.com
 *.qo.errorrespan.com
@@ -7643,6 +7643,7 @@
 *.smptrffc.xyz
 *.smptrfvk.link
 *.smsecure-ad.com
+*.sn.lumbarssweepup.com
 *.snailthreatenedinvited.com
 *.snakeslang.com
 *.snap.licdn.com
@@ -7820,6 +7821,7 @@
 *.studyunharmedupscale.com
 *.stupendoussleet.com
 *.stylish-knife.com
+*.su.sulingvicaire.cyou
 *.sub.api-rfr.com
 *.sub2tech.com
 *.subscribe.hearstmags.com
@@ -7924,6 +7926,7 @@
 *.tc.mnbvcxzq.com
 *.tc.vbnmhjlp.com
 *.tcads.net
+*.tcugibodvow.in
 *.tdf.ringier.ch
 *.tealeaf.com
 *.tealium.com

@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 24 Aug 2026 13:45 UTC+7
-# Version: 2608241345
-# Blocked: 22.632 domains
+# Last modified: 27 Aug 2026 14:23 UTC+7
+# Version: 2608271423
+# Blocked: 22.633 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -10170,6 +10170,7 @@
 0.0.0.0 javhdz.fun
 0.0.0.0 javhdz.hot
 0.0.0.0 javhdz.pro
+0.0.0.0 javhdz.pw
 0.0.0.0 javhdz.red
 0.0.0.0 javhdz.wine
 0.0.0.0 javhdzz.net
