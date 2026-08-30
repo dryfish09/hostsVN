@@ -1,8 +1,8 @@
 ! Title: hostsVN
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 27 Aug 2026 14:23 UTC+7
-! Version: 2608271423
-! Blocked: 8.698 rules
+! Last modified: 30 Aug 2026 22:49 UTC+7
+! Version: 2608302249
+! Blocked: 8.697 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7284,7 +7284,6 @@
 ||readingguilt.com^
 ||readserver.net^
 ||readymoon.com^
-||realcastmedia.com^
 ||realclever.com^
 ||realclix.com^
 ||realizationnewestfangs.com^
