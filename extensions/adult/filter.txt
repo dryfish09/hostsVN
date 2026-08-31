@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 30 Aug 2026 22:48 UTC+7
-! Version: 2608302248
-! Blocked: 22.506 rules
+! Last modified: 31 Aug 2026 22:44 UTC+7
+! Version: 2608312244
+! Blocked: 22.518 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -5120,6 +5120,7 @@
 ||cap3.autos^
 ||cap3.beer^
 ||cap3.click^
+||cap3.email^
 ||cap3.monster^
 ||cap3.pics^
 ||cap3.pro^
@@ -7652,7 +7653,10 @@
 ||gaicaocap.xyz^
 ||gaichanh.co^
 ||gaidam18.com^
+||gaidep.blog^
 ||gaidepvn.xyz^
+||gaidepxx.com^
+||gaidepxx.me^
 ||gaigoi.homes^
 ||gaigoi.id^
 ||gaigoi.live^
@@ -10117,6 +10121,7 @@
 ||javhd.cc^
 ||javhd.ch^
 ||javhd.charity^
+||javhd.co.uk^
 ||javhd.com^
 ||javhd.contact^
 ||javhd.download^
@@ -13353,6 +13358,7 @@
 ||phim18hd.net^
 ||phim18hd.one^
 ||phim18hd.top^
+||phim18k.blog^
 ||phim18k.com^
 ||phim18vn.com^
 ||phim18x.net^
@@ -16645,6 +16651,7 @@
 ||s-vpn.com^
 ||s-wie-sexy.com^
 ||s.chinav.sex^
+||s.gaidep.blog^
 ||s.phimsexvip.cc^
 ||s.sexhd.io^
 ||s.vnchich.net^
@@ -17414,6 +17421,7 @@
 ||sextop1.one^
 ||sextop1.page^
 ||sextop1.site^
+||sextop1.spa^
 ||sextop1.team^
 ||sextop1.tech^
 ||sextop1.us^
@@ -18068,6 +18076,7 @@
 ||stysny.com^
 ||subao88.com^
 ||subespanol.top^
+||subjav.buzz^
 ||subjav.live^
 ||subjav.org^
 ||subjav.sex^
@@ -19278,6 +19287,7 @@
 ||uu9987.com^
 ||uutit.cn^
 ||uwb2b.com^
+||v.javhd.co.uk^
 ||v0371.com^
 ||v0mhg.xyz^
 ||v100f.com^
@@ -19730,6 +19740,7 @@
 ||vnchich.net^
 ||vnok.net^
 ||vnp888.com^
+||vnsextop1.com^
 ||vnvn77.com^
 ||vnxnxx.cc^
 ||vnxnxx.xyz^
@@ -20182,6 +20193,7 @@
 ||x-videos.club^
 ||x-videos.su^
 ||x-xx.pro^
+||x.javhd.co.uk^
 ||x.phimsexsub.pw^
 ||x0258.com^
 ||x0262.com^

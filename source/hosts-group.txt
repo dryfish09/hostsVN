@@ -9717,7 +9717,11 @@ beacon-api.aliyuncs.com
 adash.man.aliyuncs.com
 #[log.aliyuncs.com]
 log.aliyuncs.com
+ap-southeast-1.log.aliyuncs.com
 alivc-aio-sgp.ap-southeast-1.log.aliyuncs.com
+tsg-hdp-client-logger-log.ap-southeast-1.log.aliyuncs.com
+tsg-hdp-raw-log.ap-southeast-1.log.aliyuncs.com
+tva-igame-global-ipa-0001.us-east-1.log.aliyuncs.com
 videocloud-sgp.ap-southeast-1.log.aliyuncs.com
 vod-newplayer-sg.ap-southeast-1.log.aliyuncs.com
 #[ad-host-backup-*.*.aliyuncs.com]

@@ -61133,6 +61133,9 @@ hadesbets.uk
 nextbola.ac.id
 bolaku.sch.id
 winning228.sch.id
+tin888vn.club
+m.tin888vn.club
+9922066.com
 # --- Block CNAME gambling ---
 3m.gaejkse.com
 v978np.tgtest.site
@@ -61772,6 +61775,14 @@ images.0998455.com
 restream.genesockezlyfeapy.com
 livestr.quayso.org
 static.j001d.com
+tinpro.info
+img.tinpro.info
+connectkz.info
+cdn-7l2.pages.dev
+lux-cdn.pages.dev
+connectlux.icu
+cdn.dklux.top
+dgdga3.swuacktu.net
 # --- Block ads gambling ---
 dkqf9ehbln8jmst.com
 ob7sn3ycunmb.com
@@ -61970,6 +61981,7 @@ aypiaigetwey.gwbizquenab.com
 bfiveapi-gw.gwtonkgs.net
 bodergatez.dsrcgoms.net
 apirvp4.iptreckat.info
+api.live-tracking.io
 cdn.live-tracking.io
 ingest.live-tracking.io
 api.chamsockhachhang.live

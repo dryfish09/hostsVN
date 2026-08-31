@@ -1,7 +1,7 @@
 # Title: hostsVN Adult
-# Last modified: 30 Aug 2026 22:48 UTC+7
-# Version: 2608302248
-# Blocked: 22.633 domains
+# Last modified: 31 Aug 2026 22:44 UTC+7
+# Version: 2608312244
+# Blocked: 22.645 domains
 # Only include adult domains
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -5117,6 +5117,7 @@
 0.0.0.0 cap3.autos
 0.0.0.0 cap3.beer
 0.0.0.0 cap3.click
+0.0.0.0 cap3.email
 0.0.0.0 cap3.monster
 0.0.0.0 cap3.pics
 0.0.0.0 cap3.pro
@@ -7649,7 +7650,10 @@
 0.0.0.0 gaicaocap.xyz
 0.0.0.0 gaichanh.co
 0.0.0.0 gaidam18.com
+0.0.0.0 gaidep.blog
 0.0.0.0 gaidepvn.xyz
+0.0.0.0 gaidepxx.com
+0.0.0.0 gaidepxx.me
 0.0.0.0 gaigoi.homes
 0.0.0.0 gaigoi.id
 0.0.0.0 gaigoi.live
@@ -10113,6 +10117,7 @@
 0.0.0.0 javhd.cc
 0.0.0.0 javhd.ch
 0.0.0.0 javhd.charity
+0.0.0.0 javhd.co.uk
 0.0.0.0 javhd.com
 0.0.0.0 javhd.contact
 0.0.0.0 javhd.download
@@ -13349,6 +13354,7 @@
 0.0.0.0 phim18hd.net
 0.0.0.0 phim18hd.one
 0.0.0.0 phim18hd.top
+0.0.0.0 phim18k.blog
 0.0.0.0 phim18k.com
 0.0.0.0 phim18vn.com
 0.0.0.0 phim18x.net
@@ -16641,6 +16647,7 @@
 0.0.0.0 s-vpn.com
 0.0.0.0 s-wie-sexy.com
 0.0.0.0 s.chinav.sex
+0.0.0.0 s.gaidep.blog
 0.0.0.0 s.phimsexvip.cc
 0.0.0.0 s.sexhd.io
 0.0.0.0 s.vnchich.net
@@ -17410,6 +17417,7 @@
 0.0.0.0 sextop1.one
 0.0.0.0 sextop1.page
 0.0.0.0 sextop1.site
+0.0.0.0 sextop1.spa
 0.0.0.0 sextop1.team
 0.0.0.0 sextop1.tech
 0.0.0.0 sextop1.us
@@ -18063,6 +18071,7 @@
 0.0.0.0 stysny.com
 0.0.0.0 subao88.com
 0.0.0.0 subespanol.top
+0.0.0.0 subjav.buzz
 0.0.0.0 subjav.live
 0.0.0.0 subjav.org
 0.0.0.0 subjav.sex
@@ -19271,6 +19280,7 @@
 0.0.0.0 uu9987.com
 0.0.0.0 uutit.cn
 0.0.0.0 uwb2b.com
+0.0.0.0 v.javhd.co.uk
 0.0.0.0 v0371.com
 0.0.0.0 v0mhg.xyz
 0.0.0.0 v100f.com
@@ -19723,6 +19733,7 @@
 0.0.0.0 vnchich.net
 0.0.0.0 vnok.net
 0.0.0.0 vnp888.com
+0.0.0.0 vnsextop1.com
 0.0.0.0 vnvn77.com
 0.0.0.0 vnxnxx.cc
 0.0.0.0 vnxnxx.xyz
@@ -20316,6 +20327,7 @@
 0.0.0.0 x-videos.club
 0.0.0.0 x-videos.su
 0.0.0.0 x-xx.pro
+0.0.0.0 x.javhd.co.uk
 0.0.0.0 x.phimsexsub.pw
 0.0.0.0 x0258.com
 0.0.0.0 x0262.com

@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 30 Aug 2026 22:48 UTC+7
-! Version: 2608302248
-! Blocked: 64.888 rules
+! Last modified: 31 Aug 2026 22:44 UTC+7
+! Version: 2608312244
+! Blocked: 64.925 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -2588,6 +2588,7 @@
 ||11vn777.com^
 ||11win.beer^
 ||11win.casa^
+||11win.fashion^
 ||11win.free^
 ||11win.link^
 ||11win.llc^
@@ -5110,6 +5111,7 @@
 ||188letters.com^
 ||188live.net^
 ||188lotto.com^
+||188lux.com^
 ||188micro.com^
 ||188news.net^
 ||188newsletter.net^
@@ -30748,6 +30750,7 @@
 ||9920999.com^
 ||9922.com^
 ||9922002.com^
+||9922066.com^
 ||99225004.com^
 ||992266.com^
 ||9922696.com^
@@ -31163,6 +31166,7 @@
 ||9bet.blue^
 ||9bet.care^
 ||9bet.diy^
+||9bet.es^
 ||9bet.fund^
 ||9bet.green^
 ||9bet.krd^
@@ -32109,6 +32113,7 @@
 ||api.9bet.band^
 ||api.9bet.care^
 ||api.9bet.diy^
+||api.9bet.es^
 ||api.9bet.fund^
 ||api.9bet.green^
 ||api.9bet.krd^
@@ -32160,6 +32165,7 @@
 ||api.k89code.net^
 ||api.ku88.okinawa^
 ||api.ky5528.vip^
+||api.live-tracking.io^
 ||api.lobe168.com^
 ||api.lv6790.com^
 ||api.max79.win^
@@ -36527,12 +36533,14 @@
 ||cddworld.com^
 ||cdkmer.cn^
 ||cdn-1win.xyz^
+||cdn-7l2.pages.dev^
 ||cdn-mb.com^
 ||cdn.6xteam.com^
 ||cdn.868vip.live^
 ||cdn.888zfym.com^
 ||cdn.appslots888.com^
 ||cdn.avcjtodj.com^
+||cdn.dklux.top^
 ||cdn.gin.bet^
 ||cdn.hanwei1234.com^
 ||cdn.hg66sdt65nfx64.com^
@@ -36961,6 +36969,8 @@
 ||compsres.com^
 ||config.mm-live.online^
 ||conga6789.asia^
+||connectkz.info^
+||connectlux.icu^
 ||connectpay88.com^
 ||connhangheo.top^
 ||cons-suph.com^
@@ -38180,6 +38190,7 @@
 ||dg43.com^
 ||dg5636.com^
 ||dg88.club^
+||dgdga3.swuacktu.net^
 ||dgfgdg.xyz^
 ||dgfiroghirmgreigiremfmek.com^
 ||dgtnb.com^
@@ -38478,6 +38489,7 @@
 ||du88.click^
 ||du88.club^
 ||du88.com^
+||du88.diy^
 ||du88.fashion^
 ||du88.football^
 ||du88.guru^
@@ -41529,6 +41541,7 @@
 ||gviralnews.com^
 ||gvn3.com^
 ||gw.gen88.com^
+||gw.mubet.help^
 ||gw.mubet.media^
 ||gw.mubet.talk^
 ||gw.mubet.tips^
@@ -42074,6 +42087,7 @@
 ||hbet.srl^
 ||hbet.vc^
 ||hbet.win^
+||hbet.wtf^
 ||hbet888.com^
 ||hbglhl.xyz^
 ||hbtqjs.com^
@@ -44690,6 +44704,7 @@
 ||img.mu9.com^
 ||img.nbet.vin^
 ||img.red88.vip^
+||img.tinpro.info^
 ||img.v78157.com^
 ||img.w639vn.com^
 ||img.win133.me^
@@ -47546,6 +47561,7 @@
 ||k88.mov^
 ||k88.now^
 ||k88.nz^
+||k88.phd^
 ||k88.pro^
 ||k88.soy^
 ||k88.sx^
@@ -49453,6 +49469,7 @@
 ||lttfun66.com^
 ||lttyuming.com^
 ||lu88.ai^
+||lu88.app^
 ||lu88.bio^
 ||lu88.ch^
 ||lu88.co^
@@ -49586,6 +49603,7 @@
 ||lukevn.com^
 ||lumenhospitality.com^
 ||lunlun56565.com^
+||lux-cdn.pages.dev^
 ||luxury86.com^
 ||lv166.com^
 ||lv177.asia^
@@ -50021,6 +50039,7 @@
 ||m-bet.com^
 ||m-cdne199.gmjrxoba36.com^
 ||m-xvus89.fxgrxomr48.com^
+||m.188lux.com^
 ||m.188thethao.com^
 ||m.1popop.com^
 ||m.23vip44.com^
@@ -50313,6 +50332,8 @@
 ||m.tf88v.com^
 ||m.tf88vn.com^
 ||m.tin888.club^
+||m.tin888.top^
+||m.tin888vn.club^
 ||m.ud1a.com^
 ||m.udw87.cc^
 ||m.udw881.cc^
@@ -50513,6 +50534,7 @@
 ||man88.co^
 ||man88.io^
 ||man88.la^
+||man88.lat^
 ||man88.li^
 ||man88.net^
 ||man88.ng^
@@ -51366,6 +51388,7 @@
 ||mu922.com^
 ||mubet.best^
 ||mubet.dev^
+||mubet.help^
 ||mubet.info^
 ||mubet.media^
 ||mubet.sh^
@@ -53551,6 +53574,7 @@
 ||pub88.charity^
 ||pub88.college^
 ||pub88.com^
+||pub88.company^
 ||pub88.day^
 ||pub88.forum^
 ||pub88.ltd^
@@ -54722,6 +54746,7 @@
 ||s34034.com^
 ||s4-sv88.stwostatic.com^
 ||s4.gen88.com^
+||s4.mubet.help^
 ||s4.mubet.vip^
 ||s4.tot88.store^
 ||s4166.com^
@@ -55654,6 +55679,7 @@
 ||sk.vin88.vip^
 ||sk.xibet.com^
 ||sk.xibet.ec^
+||sk.xibet.foo^
 ||sk.xibet.fun^
 ||sk.xibet.ing^
 ||sk.xibet.now^
@@ -55809,6 +55835,7 @@
 ||socket.9bet.band^
 ||socket.9bet.care^
 ||socket.9bet.diy^
+||socket.9bet.es^
 ||socket.9bet.fund^
 ||socket.9bet.green^
 ||socket.9bet.krd^
@@ -57088,10 +57115,14 @@
 ||tin88.top^
 ||tin88.vip^
 ||tin888.club^
+||tin888.net^
+||tin888.top^
+||tin888vn.club^
 ||tin88fun.top^
 ||tin88live.top^
 ||tingkan.net^
 ||tinnhan88.com^
+||tinpro.info^
 ||tintuc.vlott88.com^
 ||tip.club^
 ||tip88.app^
@@ -57705,6 +57736,7 @@
 ||tx1.vip^
 ||tx668.vip^
 ||tx68.vip^
+||tx88.band^
 ||tx88.biz^
 ||tx88.ch^
 ||tx88.com^
@@ -59094,6 +59126,7 @@
 ||vicbet.com^
 ||vicclub.ac^
 ||vicclub.id^
+||vicclub.ink^
 ||vicclub.mx^
 ||vicclub.sh^
 ||victorwin555.com^
@@ -59722,6 +59755,7 @@
 ||vtyt0.com^
 ||vu88.ac^
 ||vu88.best^
+||vu88.bio^
 ||vu88.com^
 ||vu88.cz^
 ||vu88.de^
@@ -61856,6 +61890,7 @@
 ||wp.9bet.band^
 ||wp.9bet.care^
 ||wp.9bet.diy^
+||wp.9bet.es^
 ||wp.9bet.fund^
 ||wp.9bet.green^
 ||wp.9bet.krd^
@@ -62464,6 +62499,7 @@
 ||xiapiiurulzrivterx.xyz^
 ||xibet.com^
 ||xibet.ec^
+||xibet.foo^
 ||xibet.fun^
 ||xibet.ing^
 ||xibet.moi^
@@ -64761,6 +64797,7 @@
 ||zowin.esq^
 ||zowin.fan^
 ||zowin.fm^
+||zowin.gripe^
 ||zowin.im^
 ||zowin.is^
 ||zowin.kim^
