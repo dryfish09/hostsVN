@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains
-! Last modified: 31 Aug 2026 22:44 UTC+7
-! Version: 2608312244
-! Blocked: 22.518 rules
+! Last modified: 08 Sep 2026 15:55 UTC+7
+! Version: 2609081555
+! Blocked: 22.521 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -7009,6 +7009,7 @@
 ||extremeporno.pro^
 ||extremteensex.com^
 ||extrudermarket.com^
+||exviet69.cc^
 ||exxxtra.net^
 ||ey68.com^
 ||eye0632.com^
@@ -11706,6 +11707,7 @@
 ||m.iceporn.com^
 ||m.sexsub.xyz^
 ||m.viet69.tech^
+||m.xnhau.city^
 ||m1.mtrafficgeo.com^
 ||m3u8-play-181024.playheovl.xyz^
 ||m4488m.com^
@@ -20743,6 +20745,7 @@
 ||xnai331.com^
 ||xnb-xh.com^
 ||xnhau.blog^
+||xnhau.city^
 ||xnhau.io^
 ||xnhau.moe^
 ||xnjav.com^

@@ -1,8 +1,8 @@
 ! Title: hostsVN Adult
 ! Description: Only include adult domains (Vietnamese language)
-! Last modified: 31 Aug 2026 22:44 UTC+7
-! Version: 2608312244
-! Blocked: 1.906 rules
+! Last modified: 08 Sep 2026 15:55 UTC+7
+! Version: 2609081555
+! Blocked: 1.909 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -256,6 +256,7 @@
 ||ephimsex.net^
 ||erotic-hentai.com^
 ||etinhyeu.com^
+||exviet69.cc^
 ||fanpay.org^
 ||fap18.net^
 ||file.mm1cloud.com^
@@ -659,6 +660,7 @@
 ||m.heyzo.biz^
 ||m.sexsub.xyz^
 ||m.viet69.tech^
+||m.xnhau.city^
 ||manhwa24hs.com^
 ||manhwavn.com^
 ||massagebinhduong.vipvn.net^
@@ -1834,6 +1836,7 @@
 ||xmovies-xnxx.com^
 ||xn--sexvitnam-zj7d.com^
 ||xnhau.blog^
+||xnhau.city^
 ||xnhau.io^
 ||xnhau.moe^
 ||xnxvn.org^

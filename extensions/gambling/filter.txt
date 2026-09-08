@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 31 Aug 2026 22:44 UTC+7
-! Version: 2608312244
-! Blocked: 64.925 rules
+! Last modified: 08 Sep 2026 15:55 UTC+7
+! Version: 2609081555
+! Blocked: 64.926 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -56227,6 +56227,7 @@
 ||sunwin.inc^
 ||sunwin.lt^
 ||sunwin.moi^
+||sunwin.parts^
 ||sunwin.pro^
 ||sunwin.pw^
 ||sunwin.show^
