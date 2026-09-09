@@ -9022,6 +9022,8 @@
 ||heovl.live^
 ||heovl.me^
 ||heovl.moe^
+||heovl.im^
+||heovl.name^
 ||heovl.net^
 ||heovl.tube^
 ||heovl.tv^
