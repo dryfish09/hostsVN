@@ -458,6 +458,8 @@
 ||heovl.net^
 ||heovl.tube^
 ||heovl.tv^
+||heovl.im^
+||heovl.name^
 ||heovl1.com^
 ||heovl1.net^
 ||heovlx.com^
