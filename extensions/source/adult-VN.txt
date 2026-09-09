@@ -1,5 +1,7 @@
 # --- Block adultVN ---
 vl3x.cc
+heovl.im
+heovl.moe
 yo69.pro
 tuoi69.live
 tuoinung.com
